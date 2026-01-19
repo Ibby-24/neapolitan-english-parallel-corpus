@@ -17,6 +17,16 @@ Email: ibrahims4224@gmail.com
 * Funding sources: None (independent student project)
 
 
+# Project Goal 
+To collect and process lines of neapolitan, a low-resource language, to create a translator from neapolitan to english. Because of Neapolitan's orthography, regional variation, and low resources, it is more difficult create a standard dataset for it to translate. The goal of this project is to build a dataset that can lead to some solution in standardizing thousands of texts, deal with problems like accents, context, and irregularity in everyday language, to create an accurate neapolitan to english translator. The goal isn't perfect accuracy, but rather create a beginning point and experiment with datasets.
+
+# Current State 
+Currently, the dataset is being filled in. Data is being found from various sources online and collected. 
+
+# Coming Next 
+Once data has been collected, the model will be built and trained on the data. More data will continue to be collected over time.
+
+
 # SHARING/ACCESS INFORMATION
 
 * Licenses/restrictions placed on the data:  
@@ -27,7 +37,7 @@ None (dataset under development)
 * Links/relationships to ancillary data sets: 
 * Was data derived from another source?: Yes 
 Sources:
- - Publicly avalaible Neapolitan song lyrics
+ - Publicly available Neapolitan song lyrics
  - User-generated content (e.g. social media, forums)
  - Parallel examples manually collected and translated
 * Recommended citation for this dataset: 
@@ -35,7 +45,7 @@ Syed, I. (2026). A Low-Resource Neapolitan-English Parallel Corpus. [Github repo
 
 # DATA & FILE OVERVIEW
 
-## File List: *list all files (or folders, as appropriate for dataset organization) contained in the dataset, with a brief description*
+## File List:
 
 data/
   raw/      Raw collected Neapolitan and English text
@@ -64,7 +74,7 @@ Data was collected from publicly available Neapolitan-language sources, includin
 ## Methods for processing the data: 
 Processing involved normalization of orthographic variation (e.g. accent usage, spelling variants), removal of non-linguistic artifacts, and sentence-level alignment between Neapolitan and English. Multiple normalization were explored to balance linguistic variation with model compatability.
 
-## Instrument- or software-specific information needed to interpret the data: 
+## Instruments: 
 - Python 3.10+
 - pandas
 - regex
@@ -75,14 +85,15 @@ Quality assurance involved manual insepction of aligned sentence pairs and revie
 
 # DATA-SPECIFIC INFORMATION FOR: neapolitan_english_parallel.csv 
 
-* Number of variables: | Column1 | Column2 | Column3 |
-| --------------- | --------------- | --------------- |
-| Item1.1 | Item2.1 | Item3.1 |
-| Item1.2 | Item2.2 | Item3.2 |
+* Number of variables: 3
 
+* Number of rows: numRows
 
-* Number of variables: 
-* Number of cases/rows: 
-* Variable List: *list variable name(s), description(s), unit(s) and value labels as appropriate for each*
-* Missing data codes: *list code/symbol and definition*
-* Specialized formats or other abbreviations used: 
+Variable List:
+- neapolitan_text: Original Neapolitan sentence
+- english_text: Corresponding English translation
+-  source: Origin of the sentence
+
+* Missing data codes:
+- NA: translation unavailable or unclear
+

@@ -1,10 +1,281 @@
 [
+  /* ESEMPIO:
   {
     "id":1,
-    "napolitano" : "line",
-    "english" : "",
-    "source" : "manual"
-    "context" : ""
-    "split" : ""
+    "neapolitan" : "Quanno nascette Ninno",
+    "intermediary_italian": "Quando nasce il bambino",
+    "english" : "When the child was born",
+    "source" : "poem_url"
+    "context" : "Christmas poem"
+    "split" : "train"
+  }*/
+  {
+    "id" : 1,
+    "neapolitan" : "Nuje ca perdimmo 'a pace e 'o suonno",
+    "intermediary_italian" : null,
+    "english" : "We lose sleep and peace of mind and never ask ourselves why",
+    "source" : "http://www.naplesldm.com/napsongtexts.php#anema",
+    "context" : "Anema e core by Salve D'Esposito",
+    "split" : "train";
+  }
+  {
+    "id" : 2,
+    "neapolitan" : "nun ce dicimmo maje pecché",
+    "intermediary_italian" : null,
+    "english" : "Never ask ourselves, Why?",
+    "source" : "http://www.naplesldm.com/napsongtexts.php#anema",
+    "context" : "Anema e core by Salve D'Esposito",
+    "split" : "train";
+  }
+
+  {
+    "id" : 3,
+    "neapolitan" : "Vocche ca vase nun ne vonno",
+    "intermediary_italian" : null,
+    "english" : "Lips that don't like kisses",
+    "source" : "http://www.naplesldm.com/napsongtexts.php#anema",
+    "context" : "Anema e core by Salve D'Esposito",
+    "split" : "train";
+  }
+
+  {
+    "id" : 4,
+    "neapolitan" : "nun só' sti vvocche oje né!",
+    "intermediary_italian" : null,
+    "english" : "those are not our lips, oh my!",
+    "source" : "http://www.naplesldm.com/napsongtexts.php#anema",
+    "context" : "Anema e core by Salve D'Esposito",
+    "split" : "train";
+  }
+
+  {
+    "id" : 5,
+    "neapolitan" : "Pure, te chiammo a nun rispunne",
+    "intermediary_italian" : null,
+    "english" : "Yet, I call you and you don't answer",
+    "source" : "http://www.naplesldm.com/napsongtexts.php#anema",
+    "context" : "Anema e core by Salve D'Esposito",
+    "split" : "train";
+  }
+
+  {
+    "id" : 6,
+    "neapolitan" : "pe' fá dispietto a me",
+    "intermediary_italian" : null,
+    "english" : "just to spite me",
+    "source" : "http://www.naplesldm.com/napsongtexts.php#anema",
+    "context" : "Anema e core by Salve D'Esposito",
+    "split" : "train";
+  }
+
+  {
+    "id" : 7,
+    "neapolitan" : "Tenímmoce accussí anema e core!",
+    "intermediary_italian" : null,
+    "english" : "Let's hold each other just like this with all our soul and heart!",
+    "source" : "http://www.naplesldm.com/napsongtexts.php#anema",
+    "context" : "Anema e core by Salve D'Esposito",
+    "split" : "train";
+  }
+
+  {
+    "id" : 8,
+    "neapolitan" : "nun ce lassammo cchiù, manco pe' n'ora",
+    "intermediary_italian" : null,
+    "english" : "Let's not leave each other, not for an hour",
+    "source" : "http://www.naplesldm.com/napsongtexts.php#anema",
+    "context" : "Anema e core by Salve D'Esposito",
+    "split" : "train";
+  }
+
+  {
+    "id" : 9,
+    "neapolitan" : "stu desiderio 'e te mme fa paura",
+    "intermediary_italian" : null,
+    "english" : "My desire for you frightens me",
+    "source" : "http://www.naplesldm.com/napsongtexts.php#anema",
+    "context" : "Anema e core by Salve D'Esposito",
+    "split" : "train";
+  }
+
+  {
+    "id" : 10,
+    "neapolitan" : "Campá cu te, sempe cu te, pe' nun murí",
+    "intermediary_italian" : null,
+    "english" : "to be with you, always with you, and not to die",
+    "source" : "http://www.naplesldm.com/napsongtexts.php#anema",
+    "context" : "Anema e core by Salve D'Esposito",
+    "split" : "train";
+  }
+
+  {
+    "id" : 11,
+    "neapolitan" : "Che ce dicimmo a fá parole amore",
+    "intermediary_italian" : null,
+    "english" : "Why say bitter words to one another",
+    "source" : "http://www.naplesldm.com/napsongtexts.php#anema",
+    "context" : "Anema e core by Salve D'Esposito",
+    "split" : "train";
+  }
+
+  {
+    "id" : 12,
+    "neapolitan" : "si 'o bbene po' campá cu nu respiro?",
+    "intermediary_italian" : null,
+    "english" : "when a single breath of goodness is what we need?",
+    "source" : "http://www.naplesldm.com/napsongtexts.php#anema",
+    "context" : "Anema e core by Salve D'Esposito",
+    "split" : "train";
+  }
+
+  {
+    "id" : 13,
+    "neapolitan" : "Si smanie pure tu pe' chist'ammore,",
+    "intermediary_italian" : null,
+    "english" : "If you yearn for this love we have,",
+    "source" : "http://www.naplesldm.com/napsongtexts.php#anema",
+    "context" : "Anema e core by Salve D'Esposito",
+    "split" : "train";
+  }
+
+  {
+    "id" : 14, 
+    "neapolitan" : "tenímmoce accussí anema e core!",
+    "intermediary_italian" : null,
+    "english" : "let's hold each other with all our soul and heart.",
+    "source" : "http://www.naplesldm.com/napsongtexts.php#anema",
+    "context" : "Anema e core by Salve D'Esposito",
+    "split" : "train";
+  }
+
+  
+  {
+    "id": ,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
+  }
+
+  {
+    "id": ,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
+  }
+
+  {
+    "id": ,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
+  }
+
+  {
+    "id": ,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
+  }
+
+  {
+    "id": ,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
+  }
+
+  {
+    "id": ,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
+  }
+
+  {
+    "id": ,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
+  }
+
+  {
+    "id": ,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
+  }
+
+  {
+    "id": ,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
+  }
+
+  {
+    "id": ,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
+  }
+
+  {
+    "id": ,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
+  }
+
+  {
+    "id": ,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
+  }
+
+  {
+    "id": ,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
   }
 ]
