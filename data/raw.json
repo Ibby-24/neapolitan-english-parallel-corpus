@@ -150,7 +150,317 @@
 
   
   {
-    "id": ,
+    "id": 15,
+    "neapolitan": "Aissera, Nanninè, me ne sagliette",
+    "intermediate_italian": null,
+    "english": "Yesterday afternoon, Nanninè, I went up to",
+    "source": "http://www.naplesldm.com/napsongtexts.php#funiculi",
+    "context": "Funiculì Faniculà by Luigi Denza",
+    "split": "train"
+  }
+
+  {
+    "id": 16,
+    "neapolitan": "tu saie addò, tu saie addò,",
+    "intermediate_italian": null,
+    "english": "you know where I went, you know where I went,",
+    "source": "http://www.naplesldm.com/napsongtexts.php#funiculi",
+    "context": "Funiculì, Funiculà by Luigi Denza",
+    "split": "train"
+  }
+
+  {
+    "id": 17,
+    "neapolitan": "Addò to core ‘ngrato chiu dispiette",
+    "intermediate_italian": null,
+    "english": "up there where your ungrateful heart",
+    "source": "http://www.naplesldm.com/napsongtexts.php#funiculi",
+    "context": "Funiculì, Funiculà by Luigi Denza",
+    "split": "train"
+  }
+
+  {
+    "id": 18,
+    "neapolitan": "farme nun po’, farme nun po'",
+    "intermediate_italian": null,
+    "english": "can't get at me, can't get at me",
+    "source": "http://www.naplesldm.com/napsongtexts.php#funiculi",
+    "context": "Funiculì, Funiculà by Luigi Denza",
+    "split": "train"
+  }
+
+  {
+    "id": 19,
+    "neapolitan": "Addò lo fuoco coce, ma si fuje",
+    "intermediate_italian": null,
+    "english": "Where the fire burns, but if you run away",
+    "source": "http://www.naplesldm.com/napsongtexts.php#funiculi",
+    "context": "Funiculì, Funiculà by Luigi Denza",
+    "split": "train"
+  }
+
+  {
+    "id": 20,
+    "neapolitan": "te lassa stà, te lassa stà,",
+    "intermediate_italian": null,
+    "english": "it will leave you be, it will leave you be",
+    "source": "http://www.naplesldm.com/napsongtexts.php#funiculi",
+    "context": "Funiculì, Funiculà by Luigi Denza",
+    "split": "train"
+  }
+
+  {
+    "id": 21,
+    "neapolitan": "e nun te corre appriesso, nun te struje",
+    "intermediate_italian": null,
+    "english": "And it doesn't chase after you, it doesn't destroy you",
+    "source": "http://www.naplesldm.com/napsongtexts.php#funiculi",
+    "context": "Funiculì, Funiculà by Luigi Denza",
+    "split": "train"
+  }
+
+  {
+    "id": 22,
+    "neapolitan": "sulo a guradà, sulo a guardà, ",
+    "intermediate_italian": null,
+    "english": "except if you look up at it, except if you look up at it",
+    "source": "http://www.naplesldm.com/napsongtexts.php#funiculi",
+    "context": "Funiculì, Funiculà by Luigi Denza",
+    "split": "train"
+  }
+
+  {
+    "id": 23,
+    "neapolitan": "Jammo, jammo, ‘ncoppa jammo, ja...",
+    "intermediate_italian": null,
+    "english": "So, let's go, let's go, let's go to the top...",
+    "source": "http://www.naplesldm.com/napsongtexts.php#funiculi",
+    "context": "Funiculì, Funiculà by Luigi Denza",
+    "split": "train"
+  }
+
+  {
+    "id": 24,
+    "neapolitan": "Quanno sponta la luna a Marechiare",
+    "intermediate_italian": null,
+    "english": "When the moon looks down and shines on Marcheiaro",
+    "source": "http://www.naplesldm.com/napsongtexts.php#marechiare",
+    "context": "Marechiare by Salvatore di Giacomo",
+    "split": "train"
+  }
+
+  {
+    "id": 25,
+    "neapolitan": "pure li pisce nce fanno l’ammore,",
+    "intermediate_italian": null,
+    "english": "Even the fish make love,",
+    "source": "http://www.naplesldm.com/napsongtexts.php#marechiare",
+    "context": "Marechiare by Salvatore di Giacomo",
+    "split": "train"
+  }
+
+  {
+    "id": 26,
+    "neapolitan": "se revotano ll’onne de lu mare",
+    "intermediate_italian": null,
+    "english": "The waves of the sea kick up",
+    "source": "http://www.naplesldm.com/napsongtexts.php#marechiare",
+    "context": "Marechiare by Salvatore di Giacomo",
+    "split": "train"
+  }
+
+  {
+    "id": 27,
+    "neapolitan": "pe la priezza cagneno culore,",
+    "intermediate_italian": null,
+    "english": "and change color just from joy",
+    "source": "http://www.naplesldm.com/napsongtexts.php#marechiare",
+    "context": "Marechiare by Salvatore di Giacomo",
+    "split": "train"
+  }
+
+  {
+    "id": 28,
+    "neapolitan": "quanto sponta la luna a Marechiare.",
+    "intermediate_italian": null,
+    "english": "When the moon looks down and shines on Marechairo",
+    "source": "http://www.naplesldm.com/napsongtexts.php#marechiare",
+    "context": "Marechiare by Salvatore di Giacomo",
+    "split": "train"
+  }
+
+  {
+    "id": 29,
+    "neapolitan": "A Marechiare nce sta ‘na fenesta,",
+    "intermediate_italian": null,
+    "english": "But at Marechiaro there's a window",
+    "source": "http://www.naplesldm.com/napsongtexts.php#marechiare",
+    "context": "Marechiare by Salvatore di Giacomo",
+    "split": "train"
+  }
+
+  {
+    "id": 30,
+    "neapolitan": "la passione mia nce tuzzulea,",
+    "intermediate_italian": null,
+    "english": "that I softly tap on with my heart",
+    "source": "http://www.naplesldm.com/napsongtexts.php#marechiare",
+    "context": "Marechiare by Salvatore di Giacomo",
+    "split": "train"
+  }
+
+  {
+    "id": 31,
+    "neapolitan": "nu carafano addora int ‘a, ‘na testa,",
+    "intermediate_italian": null,
+    "english": "There's a fragrant carnation in a vase",
+    "source": "http://www.naplesldm.com/napsongtexts.php#marechiare",
+    "context": "Marechiare by Salvatore di Giacomo",
+    "split": "train"
+  }
+
+  {
+    "id": 32,
+    "neapolitan": "passa l'aqua pe’ sotto, e murmurea:",
+    "intermediate_italian": null,
+    "english": "the sea below softly murmurs:",
+    "source": "http://www.naplesldm.com/napsongtexts.php#marechiare",
+    "context": "Marechiare by Salvatore di Giacomo",
+    "split": "train"
+  }
+
+  {
+    "id": 33,
+    "neapolitan": "a Marechiare nce sta ‘na fenesta",
+    "intermediate_italian": null,
+    "english": "at Marechiaro there's a window",
+    "source": "http://www.naplesldm.com/napsongtexts.php#marechiare",
+    "context": "Marechiare by Salvatore di Giacomo",
+    "split": "train"
+  }
+
+  {
+    "id": 34,
+    "neapolitan": "Aràpete fenesta,",
+    "intermediate_italian": null,
+    "english": "Open the window",
+    "source": "http://www.naplesldm.com/napsongtexts.php#mari",
+    "context": "Maria Mari' by Eduardo di Capua",
+    "split": "train"
+  }
+
+  {
+    "id": 35,
+    "neapolitan": "famm’affaccià a Maria,",
+    "intermediate_italian": null,
+    "english": "so I can see Maria,",
+    "source": "http://www.naplesldm.com/napsongtexts.php#mari",
+    "context": "Maria Mari' by Eduardo di Capua",
+    "split": "train"
+  }
+
+  {
+    "id": 36,
+    "neapolitan": "ca stongo mmiez’ ‘a via",
+    "intermediate_italian": null,
+    "english": "I am standing out here",
+    "source": "http://www.naplesldm.com/napsongtexts.php#mari",
+    "context": "Maria Mari' by Eduardo di Capua",
+    "split": "train"
+  }
+
+  {
+    "id": 37,
+    "neapolitan": "speruto p’ ‘a vedè.",
+    "intermediate_italian": null,
+    "english": "Yearning to see her.",
+    "source": "http://www.naplesldm.com/napsongtexts.php#mari",
+    "context": "Maria Mari' by Eduardo di Capua",
+    "split": "train"
+  }
+
+  {
+    "id": 38,
+    "neapolitan": "Nun trove n’ora ‘e pace;",
+    "intermediate_italian": null,
+    "english": "I cannot find peace of mind;",
+    "source": "http://www.naplesldm.com/napsongtexts.php#mari",
+    "context": "Maria Mari' by Eduardo di Capua",
+    "split": "train"
+  }
+
+  {
+    "id": 39,
+    "neapolitan": "‘a nott’ ‘a faccio juorno",
+    "intermediate_italian": null,
+    "english": "The night becomes day",
+    "source": "http://www.naplesldm.com/napsongtexts.php#mari",
+    "context": "Maria Mari' by Eduardo di Capua",
+    "split": "train"
+  }
+
+  {
+    "id": 40,
+    "neapolitan": "sempe pe sta ccà attuorno,",
+    "intermediate_italian": null,
+    "english": "I wait out here,",
+    "source": "http://www.naplesldm.com/napsongtexts.php#mari",
+    "context": "Maria Mari' by Eduardo di Capua",
+    "split": "train"
+  }
+
+  {
+    "id": 41,
+    "neapolitan": "speranno ‘e ce parlà!",
+    "intermediate_italian": null,
+    "english": "hoping she'll talk to me!",
+    "source": "http://www.naplesldm.com/napsongtexts.php#mari",
+    "context": "Maria Mari' by Eduardo di Capua",
+    "split": "train"
+  }
+
+  {
+    "id": 42,
+    "neapolitan": "Oj, Marì, oj, Mari! ",
+    "intermediate_italian": null,
+    "english": "O Mari, O Mari!",
+    "source": "http://www.naplesldm.com/napsongtexts.php#mari",
+    "context": "Maria Mari' by Eduardo di Capua",
+    "split": "train"
+  }
+
+  {
+    "id": 43,
+    "neapolitan": "quanta suonno ca perdo pe’ te!",
+    "intermediate_italian": null,
+    "english": "how much sleep I have lost over you!",
+    "source": "http://www.naplesldm.com/napsongtexts.php#mari",
+    "context": "Maria Mari' by Eduardo di Capua",
+    "split": "train"
+  }
+
+  {
+    "id": 44,
+    "neapolitan": "Famm’ addurmi",
+    "intermediate_italian": null,
+    "english": "Let me sleep",
+    "source": "http://www.naplesldm.com/napsongtexts.php#mari",
+    "context": "Maria Mari' by Eduardo di Capua",
+    "split": "train"
+  }
+
+  {
+    "id": 45,
+    "neapolitan": "abbracciato nu poco cu te!",
+    "intermediate_italian": null,
+    "english": "in your arms!",
+    "source": "http://www.naplesldm.com/napsongtexts.php#mari",
+    "context": "Maria Mari' by Eduardo di Capua",
+    "split": "train"
+  }
+
+  {
+    "id": 50,
     "neapolitan": "",
     "intermediate_italian": null,
     "english": "",
@@ -160,7 +470,7 @@
   }
 
   {
-    "id": ,
+    "id": 43,
     "neapolitan": "",
     "intermediate_italian": null,
     "english": "",
@@ -170,7 +480,7 @@
   }
 
   {
-    "id": ,
+    "id": 44,
     "neapolitan": "",
     "intermediate_italian": null,
     "english": "",
@@ -180,7 +490,7 @@
   }
 
   {
-    "id": ,
+    "id": 45,
     "neapolitan": "",
     "intermediate_italian": null,
     "english": "",
@@ -190,7 +500,7 @@
   }
 
   {
-    "id": ,
+    "id": 46,
     "neapolitan": "",
     "intermediate_italian": null,
     "english": "",
@@ -200,7 +510,7 @@
   }
 
   {
-    "id": ,
+    "id": 47,
     "neapolitan": "",
     "intermediate_italian": null,
     "english": "",
@@ -210,7 +520,7 @@
   }
 
   {
-    "id": ,
+    "id": 48,
     "neapolitan": "",
     "intermediate_italian": null,
     "english": "",
@@ -220,7 +530,7 @@
   }
 
   {
-    "id": ,
+    "id": 49,
     "neapolitan": "",
     "intermediate_italian": null,
     "english": "",
@@ -230,7 +540,7 @@
   }
 
   {
-    "id": ,
+    "id": 50,
     "neapolitan": "",
     "intermediate_italian": null,
     "english": "",
@@ -240,7 +550,7 @@
   }
 
   {
-    "id": ,
+    "id": 51,
     "neapolitan": "",
     "intermediate_italian": null,
     "english": "",
@@ -250,7 +560,7 @@
   }
 
   {
-    "id": ,
+    "id": 52,
     "neapolitan": "",
     "intermediate_italian": null,
     "english": "",
@@ -260,7 +570,7 @@
   }
 
   {
-    "id": ,
+    "id": 53,
     "neapolitan": "",
     "intermediate_italian": null,
     "english": "",
@@ -270,7 +580,47 @@
   }
 
   {
-    "id": ,
+    "id": 54,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
+  }
+
+  {
+    "id": 55,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
+  }
+
+  {
+    "id": 56,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
+  }
+
+  {
+    "id": 57,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "",
+    "context": "",
+    "split": "train"
+  }
+
+  {
+    "id": 58,
     "neapolitan": "",
     "intermediate_italian": null,
     "english": "",

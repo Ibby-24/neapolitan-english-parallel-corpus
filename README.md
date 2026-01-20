@@ -33,7 +33,7 @@ Once data has been collected, the model will be built and trained on the data. M
 The dataset is intended for research and educational use. Licensing depends on the original sources of collected text; see data source notes for details.
 * Links to publications that cite or use the data: 
 None (dataset under development)
-* Links to other publicly accessible locations of the data: [Github repo]*
+* Links to other publicly accessible locations of the data: https://github.com/Ibby-24
 * Links/relationships to ancillary data sets: 
 * Was data derived from another source?: Yes 
 Sources:
@@ -41,7 +41,9 @@ Sources:
  - User-generated content (e.g. social media, forums)
  - Parallel examples manually collected and translated
 * Recommended citation for this dataset: 
-Syed, I. (2026). A Low-Resource Neapolitan-English Parallel Corpus. [Github repo]*
+Syed, I. (2026). A Low-Resource Neapolitan-English Parallel Corpus. https://github.com/Ibby-24
+
+Some content is derived from Wikipedia and is shared under CC BY-SA.
 
 # DATA & FILE OVERVIEW
 
