@@ -461,9 +461,9 @@
 
   {
     "id": 50,
-    "neapolitan": "",
+    "neapolitan": "Che bella cosa na jurnata 'e sole,",
     "intermediate_italian": null,
-    "english": "",
+    "english": "What a beautiful thing is a sunny day,",
     "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
     "context": "'O sole mio by Eduardo di Capua",
     "split": "train"
@@ -471,9 +471,9 @@
 
   {
     "id": 51,
-    "neapolitan": "",
+    "neapolitan": "n'aria serena doppo na tempesta!",
     "intermediate_italian": null,
-    "english": "",
+    "english": "The air is serene after a storm!",
     "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
     "context": "'O sole mio by Eduardo di Capua",
     "split": "train"
@@ -481,9 +481,9 @@
 
   {
     "id": 52,
-    "neapolitan": "",
+    "neapolitan": "Pe' ll'aria fresca pare g[]a na festa",
     "intermediate_italian": null,
-    "english": "",
+    "english": "The air is so fresh that it already feels like a celebration",
     "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
     "context": "'O sole mio by Eduardo di Capua",
     "split": "train"
@@ -491,9 +491,9 @@
 
   {
     "id": 53,
-    "neapolitan": "",
+    "neapolitan": "Che bella cosa na jurnata 'e sole.",
     "intermediate_italian": null,
-    "english": "",
+    "english": "What a beautiful thing is a sunny day.",
     "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
     "context": "'O sole mio by Eduardo di Capua",
     "split": "train"
@@ -501,9 +501,9 @@
 
   {
     "id": 54,
-    "neapolitan": "",
+    "neapolitan": "Ma n'atu sole chhi[] bello, oi ne'.",
     "intermediate_italian": null,
-    "english": "",
+    "english": "But another sun, even more beauteous, oh my sweetheart,",
     "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
     "context": "'O sole mio by Eduardo di Capua",
     "split": "train"
@@ -511,9 +511,9 @@
 
   {
     "id": 55,
-    "neapolitan": "",
+    "neapolitan": "'o sole mio sta nfronte a te!",
     "intermediate_italian": null,
-    "english": "",
+    "english": "My own sun, is there in your face!",
     "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
     "context": "'O sole mio by Eduardo di Capua",
     "split": "train"
@@ -521,9 +521,9 @@
 
   {
     "id": 56,
-    "neapolitan": "",
+    "neapolitan": "'o sole, 'o sole mio",
     "intermediate_italian": null,
-    "english": "",
+    "english": "This sun, my own sun",
     "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
     "context": "'O sole mio by Eduardo di Capua",
     "split": "train"
@@ -531,9 +531,9 @@
 
   {
     "id": 57,
-    "neapolitan": "",
+    "neapolitan": "sta nfronte a te, sta nfronte a te!",
     "intermediate_italian": null,
-    "english": "",
+    "english": "Is there in your face, it is there in your face!",
     "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
     "context": "'O sole mio by Eduardo di Capua",
     "split": "train"
@@ -541,9 +541,9 @@
 
   {
     "id": 58,
-    "neapolitan": "",
+    "neapolitan": "L[]ceno 'e llastre d''a fenesta toia;",
     "intermediate_italian": null,
-    "english": "",
+    "english": "Your window panes shine;",
     "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
     "context": "'O sole mio by Eduardo di Capua",
     "split": "train"
@@ -551,9 +551,9 @@
 
   {
     "id": 59,
-    "neapolitan": "",
+    "neapolitan": "'na lavannara canta e se ne vanta",
     "intermediate_italian": null,
-    "english": "",
+    "english": "A laundress is singing and boasting about it",
     "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
     "context": "'O sole mio by Eduardo di Capua",
     "split": "train"
@@ -561,9 +561,9 @@
 
   {
     "id": 60,
-    "neapolitan": "",
+    "neapolitan": "e pe' tramente torce, spanne e canta,",
     "intermediate_italian": null,
-    "english": "",
+    "english": "And while she's wringing the clothes, hanging them up to dry, and singing,",
     "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
     "context": "'O sole mio by Eduardo di Capua",
     "split": "train"
@@ -571,9 +571,9 @@
 
   {
     "id": 61,
-    "neapolitan": "",
+    "neapolitan": "l[]ceno 'e llastre d''a fenesta toia.",
     "intermediate_italian": null,
-    "english": "",
+    "english": "Your window panes shine.",
     "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
     "context": "'O sole mio by Eduardo di Capua",
     "split": "train"
@@ -581,9 +581,9 @@
 
   {
     "id": 62,
-    "neapolitan": "",
+    "neapolitan": "Quanno fa notte e 'o sole se ne scenne,",
     "intermediate_italian": null,
-    "english": "",
+    "english": "When night comes and the sun has gone down,",
     "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
     "context": "'O sole mio by Eduardo di Capua",
     "split": "train"
@@ -591,9 +591,9 @@
 
   {
     "id": 63,
-    "neapolitan": "",
+    "neapolitan": "ma vene quasi 'na malincunia;",
     "intermediate_italian": null,
-    "english": "",
+    "english": "I almost start feeling melancholy;",
     "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
     "context": "'O sole mio by Eduardo di Capua",
     "split": "train"
@@ -601,9 +601,9 @@
 
   {
     "id": 64,
-    "neapolitan": "",
+    "neapolitan": "sotto 'a fenesta toia restarria",
     "intermediate_italian": null,
-    "english": "",
+    "english": "I'd stay below your window",
     "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
     "context": "'O sole mio by Eduardo di Capua",
     "split": "train"
@@ -611,11 +611,171 @@
 
   {
     "id": 65,
-    "neapolitan": "",
+    "neapolitan": "quanno fa notte e 'o sole se ne scenne.",
     "intermediate_italian": null,
-    "english": "",
+    "english": "When night comes and the sun has gone down.",
     "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
     "context": "'O sole mio by Eduardo di Capua",
+    "split": "train"
+  }
+
+  {
+    "id": 66,
+    "neapolitan": "Vide 'o mare quant'[] bello!",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
+    "split": "train"
+  }
+
+  {
+    "id": 67,
+    "neapolitan": "Spira tantu sentimento,",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
+    "split": "train"
+  }
+
+  {
+    "id": 68,
+    "neapolitan": "Comme tu a chi tiene mente",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
+    "split": "train"
+  }
+
+  {
+    "id": 69,
+    "neapolitan": "Ca scetato 'o faje sunn[]",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
+    "split": "train"
+  }
+
+  {
+    "id": 70,
+    "neapolitan": "Guarda, gu[] chistu ciardino;",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
+    "split": "train"
+  }
+
+  {
+    "id": 71,
+    "neapolitan": "Siente, sie 'sti sciure 'arancio;",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
+    "split": "train"
+  }
+
+  {
+    "id": 72,
+    "neapolitan": "'Nu prufumo accussi fino",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
+    "split": "train"
+  }
+
+  {
+    "id": 73,
+    "neapolitan": "Dino 'o core se ne va",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
+    "split": "train"
+  }
+
+  {
+    "id": 74,
+    "neapolitan": "E tu dice: "Io parto, addio!"",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
+    "split": "train"
+  }
+
+  {
+    "id": 75,
+    "neapolitan": "T'alluntane da 'stu core.",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
+    "split": "train"
+  }
+
+  {
+    "id": 76,
+    "neapolitan": "Da 'sta terra de ll'ammore",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
+    "split": "train"
+  }
+
+  {
+    "id": 77,
+    "neapolitan": "Tiene 'o core 'e nun turn[]?",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
+    "split": "train"
+  }
+
+  {
+    "id": 78,
+    "neapolitan": "Ma nun me lass[],",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
+    "split": "train"
+  }
+
+  {
+    "id": 79,
+    "neapolitan": "Nun darme 'stu turmiento!",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
+    "split": "train"
+  }
+
+  {
+    "id": 80,
+    "neapolitan": "Torna a Surriento,",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
+    "split": "train"
+  }
+
+  {
+    "id": 81,
+    "neapolitan": "Famme camp[]!",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
     "split": "train"
   }
 
@@ -624,8 +784,18 @@
     "neapolitan": "",
     "intermediate_italian": null,
     "english": "",
-    "source": "https://en.wikipedia.org/wiki/'O_sole_mio",
-    "context": "'O sole mio by Eduardo di Capua",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
+    "split": "train"
+  }
+
+  {
+    "id": 66,
+    "neapolitan": "",
+    "intermediate_italian": null,
+    "english": "",
+    "source": "https://en.wikipedia.org/wiki/Torna_a_Surriento",
+    "context": "Torna a Surriento by Ernesto De Curtis",
     "split": "train"
   }
 ]
