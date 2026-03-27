@@ -9,7 +9,6 @@ A Low-Resource Neapolitan-English Parallel Corpus
 Name: Ibrahim Syed 
 ORCID: N/A
 Institution: University of Illinois Chicago (Undergraduate)
-Address: Hinsdale, IL, USA
 Email: ibrahims4224@gmail.com 
 
 * Date of data collection: 2026-01-14 to (ongoing)
