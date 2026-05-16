@@ -1,0 +1,13 @@
+# virtual environment
+.venv/
+.env
+
+
+# cache
+__pycache__/
+
+*.pyc
+data/raw
+
+# Notes markdown file to use as scratch for questions
+NOTES.md
