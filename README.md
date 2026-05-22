@@ -1,100 +1,127 @@
-This readme file was generated on 2026-01-28 by Ibrahim Syed
+# Neapolitan–English Neural Machine Translator 🇮🇹
 
-# GENERAL INFORMATION
+A low-resource neural machine translation (NMT) system for Neapolitan → English, built from the ground up,  corpus and all.
 
-* Title of Dataset: 
-A Low-Resource Neapolitan-English Parallel Corpus
+## Overview
 
-## Author / Principle Investigator
-Name: Ibrahim Syed 
-ORCID: N/A
-Institution: University of Illinois Chicago (Undergraduate)
-Email: ibrahims4224@gmail.com 
+Neapolitan is a Romance language spoken across Campania and parts of southern Italy. Despite having millions of speakers, it has virtually no existing parallel corpora, no standardized orthography, and minimal NLP tooling.
 
-* Date of data collection: 2026-01-14 to (ongoing)
-* Geographic location of data collection: Campania, Italy
-* Funding sources: None (independent student project)
+My goal is to build the full stack: a cleaned parallel corpus of Neapolitan–English sentence pairs, a fine-tuned multilingual translation model, a REST API, and a minimal web interface, all documented and reproducible throughout.
 
+> **Status:** 🚧 Active development: currently working on writing scripts and data entry.
 
-# Project Goal 
-To my knowledge, there are no publicly available Neapolitan-English parallel datasets of meaningful size. Searches in major corpora repositories (e.g. OPUS, Tatoeba, Wikipedia) yield at most small examples. Additionally, LLMs such as OpenAI's ChatGPT or Google's Gemini tend to mistranslate many low-resource languages. This dataset, containing X examples, represents a means to enrich the list of available resources for this heavily underrepresented language. The goal of this project is to collect and process lines of Neapolitan, a low-resource language, to create a translator from Neapolitan to English. Because of Neapolitan's orthography, regional variation, and low resources, it is more difficult create a standard dataset for it to translate. The goal of this project is to build a dataset that can lead to some solution in standardizing thousands of texts, deal with problems like accents, context, and irregularity in everyday language, to create an accurate Neapolitan to English translator. The goal isn't perfect accuracy, but rather create a beginning point and experiment with datasets.
+## What's Being Built
 
-# Current State 
-Currently, the dataset is being filled in. Data is being found from various sources online and collected. 
+| Component | Description |
+|---|---|
+| 📚 Parallel Corpus | Cleaned, versioned Neapolitan/English sentence pairs with source metadata and confidence flags |
+| 🤖 Translation Model | Fine-tuned multilingual model (Helsinki-NLP OPUS-MT or mBART-50) via transfer learning |
+| ⚡ REST API | FastAPI service serving translation inference |
+| 🌐 Web UI | Minimal single-page React app: type Neapolitan, get English |
 
-# Coming Next 
-Once data has been collected, the model will be built and trained on the data. More data will continue to be collected over time.
+## Why This Is Hard
 
+The biggest challenge with this low-resource NMT project is the linguistics of Neapolitan:
 
-# SHARING/ACCESS INFORMATION
+- **No standardized orthography** — the same word can appear 5 different ways across sources, requiring deliberate normalization decisions
+- **Source scarcity** — corpus data is compiled manually from Neapolitan Wikipedia, Wikisource, bilingual folk song archives, religious texts, and academic sources
+- **No synthetic ground truth** — machine translation cannot be used to build training data; entries are human-verified and confidence-flagged
+- **Register variation** — folk songs, prose, and formal writing require domain labels to avoid polluting the training signal
 
-* Licenses/restrictions placed on the data:  
-The dataset is intended for research and educational use. Licensing depends on the original sources of collected text; see data source notes for details.
-* Links to publications that cite or use the data: 
-None (dataset under development)
-* Links to other publicly accessible locations of the data: https://github.com/Ibby-24
-* Links/relationships to ancillary data sets: 
-* Was data derived from another source?: Yes 
-Sources:
- - Publicly available Neapolitan song lyrics
- - User-generated content (e.g. social media, forums)
- - Parallel examples manually collected and translated
-* Recommended citation for this dataset: 
-Syed, I. (2026). A Low-Resource Neapolitan-English Parallel Corpus. https://github.com/Ibby-24
+## Stack
 
-Some content is derived from Wikipedia and is shared under CC BY-SA.
+**Language:** Python 3.10+
 
-# DATA & FILE OVERVIEW
+**Data**
+- Storage: JSON (collection) → Parquet (training pipeline)
+- Processing: `pandas`, HuggingFace `datasets`
 
-## File List:
+**Modeling**
+- Base model: Helsinki-NLP OPUS-MT or mBART-50
+- Framework: HuggingFace `transformers` + PyTorch
+- Evaluation: `sacrebleu`
+- Experiment tracking: Weights & Biases (`wandb`)
 
-data/
-  raw/      Raw collected Neapolitan and English text
-  processed/      Normalized and aligned parallel data
+**Serving**
+- API: FastAPI
+- Frontend: React (minimal)
 
-src/
-  preprocessing.py      Text normalization and cleaning scripts
-  baseline_nt.py      Baseline translation experiments
+**Environment:** `venv` + `requirements.txt` · Git throughout
 
-notes/
-  linguistic_notes.md     Observations on dialectal variation and orthography
+## Project Structure
 
-* Relationship between files, if important: 
-Raw data is collected from multiple sources and stored in data/raw/.
-Processing scripts normalize orthography and align sentence pairs, producing data/processed/ files used for modeling
+```
+neapolitan-translator/
+├── data/
+│   ├── raw/               # source data before cleaning
+│   ├── cleaned/           # normalized, confidence-flagged pairs
+│   └── final/             # finalized, ready to use dataset
+├── scripts/
+│   └── manual_entry.py    # tkinter gui to input new entries
+├── src/
+│   ├── api/
+│       └── main.py        # FastAPI app
+│   ├── model/
+│       ├── train.py
+│       └── evaluate.py
+│   └── data/
+|       ├── sources.md
+│       └── monolingual.md          
+├── schema.md              # corpus design decisions
+├── ui/                    # React frontend
+├── requirements.txt
+├── NOTES.md
+└── README.md
+```
 
-* Are there multiple versions of the dataset?
-No. Initial version under active development.
+## Roadmap
 
-# METHODOLOGICAL INFORMATION
+- [x] Phase 0 — Environment & Git structure
+- [x] Phase 1 — Corpus strategy & source mapping
+- [x] Phase 2 — Data collection
+- [ ] Phase 3 — Corpus schema design & storage
+- [ ] Phase 4 — Data cleaning pipeline
+- [ ] Phase 5 — Tokenization & preprocessing
+- [ ] Phase 6 — Model fine-tuning
+- [ ] Phase 7 — Evaluation (BLEU + human review)
+- [ ] Phase 8 — API development
+- [ ] Phase 9 — Frontend & deployment
+- [ ] Phase 10 — Documentation & writeup
 
-## Description of methods used for collection/generation of data: 
-Data was collected from publicly available Neapolitan-language sources, including song lyrics, informal written text, and manually curated examples. Parallel English translations were obtained through manual translation and alignment.
+## Getting Started
 
+> Full setup instructions will be added as the project matures. For now:
 
-## Methods for processing the data: 
-Processing involved normalization of orthographic variation (e.g. accent usage, spelling variants), removal of non-linguistic artifacts, and sentence-level alignment between Neapolitan and English. Multiple normalization were explored to balance linguistic variation with model compatability.
+### Prerequisites
 
-## Instruments: 
-- Python 3.10+
-- pandas
-- regex
-- (tokenization)
+```bash
+pip install -r requirements.txt
+```
 
-* Quality Assurance:
-Quality assurance involved manual insepction of aligned sentence pairs and review of common preprocessing errors, particularly those related to accent loss and Italian interface.
+### Running the API (once available)
 
-# DATA-SPECIFIC INFORMATION FOR: neapolitan_english_parallel.csv 
+```bash
+uvicorn api.main:app --reload
+```
 
-* Number of variables: 3
+## Data Sources
 
-* Number of rows: numRows
+Corpus data is compiled from:
+- [Neapolitan Wikipedia](https://nap.wikipedia.org)
+- Wikisource Neapolitan texts
+- Bilingual folk song archives
+- Religious texts (Neapolitan Bible translations)
+- Academic papers with quoted Neapolitan passages
 
-Variable List:
-- neapolitan_text: Original Neapolitan sentence
-- english_text: Corresponding English translation
--  source: Origin of the sentence
+All entries are human-verified.
+All entries' translations are either compiled from their respective source or manually translated via Italian.
 
-* Missing data codes:
-- NA: translation unavailable or unclear
+## Limitations
 
+- BLEU scores on low-resource languages are noisy, human evaluation remains essential
+- The corpus is small by MT standards; model performance will reflect this honestly
+- Orthographic normalization decisions are documented but opinionated
+
+## Author
+
+Ibrahim Syed — in progress, 2025
