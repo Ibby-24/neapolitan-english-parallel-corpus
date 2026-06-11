@@ -217,3 +217,10 @@
 - Requires manual translation
 
 
+26.
+- https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html
+- Songs/Poems
+- ~100?
+- Yes
+- Unknown
+- Blog authors translated, however unknown credentials. Some are linguistics and have long lasting connection to Italian. Unknown credential in Neapolitan.

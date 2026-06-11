@@ -1,0 +1,3351 @@
+[
+    {
+        "id": "nap_0001",
+        "nap": "Aissera, Nanniné, me ne sagliette,",
+        "ita_intermediate": null,
+        "eng": "I climbed up high yesterday evening, oh, Nannina,",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0002",
+        "nap": "tu saje addò? (Tu saje addò?)",
+        "ita_intermediate": null,
+        "eng": "Do you know where? (Do you know where?)",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0003",
+        "nap": "Addò 'sto core 'ngrato cchiù dispietto,",
+        "ita_intermediate": null,
+        "eng": "Where this ungrateful heart",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0004",
+        "nap": "farme nun pò! (Farme nun pò!)",
+        "ita_intermediate": null,
+        "eng": "No longer pains me! (No longer pains me!)",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0005",
+        "nap": "Addó lo fuoco coce, ma se fuje,",
+        "ita_intermediate": null,
+        "eng": "Where fire burns, but if you run away,",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0006",
+        "nap": "te lassa sta! (Te lassa sta!)",
+        "ita_intermediate": null,
+        "eng": "just with a look! (Just with a look!)",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0007",
+        "nap": "E nun te corre appriesso, nun te struje,",
+        "ita_intermediate": null,
+        "eng": "It doesn't follow after or torment you,",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0008",
+        "nap": "sulo a guardà! (Sulo a guardà!)",
+        "ita_intermediate": null,
+        "eng": "just with a look! (Just with a look!)",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0009",
+        "nap": "Jamme, jamme 'ncoppa, jamme jà,",
+        "ita_intermediate": null,
+        "eng": "Let's go, let's go! To the top we'll go!",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": "repeated",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0010",
+        "nap": "funiculì, funiculà, funiculì, funiculà,\n'ncoppa, jamme jà, funiculì, funiculà!",
+        "ita_intermediate": null,
+        "eng": "Funicular up, funicular down, funicular up, funicular down!\nTo the top we'll go, funicular up, funicular down!",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0011",
+        "nap": "Né, jamme da la terra a la montagna,",
+        "ita_intermediate": null,
+        "eng": "Let's go from here below up to the mountain,",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0012",
+        "nap": "nu passo nc'è! (Nu passo nc'è!)",
+        "ita_intermediate": null,
+        "eng": "A step away! (A step away!)",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0013",
+        "nap": "Se vède Francia, Proceta e la Spagna...",
+        "ita_intermediate": null,
+        "eng": "You can see France, Procida, and Spain,",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0014",
+        "nap": "Io veco a tte! (Io veco a tte!)",
+        "ita_intermediate": null,
+        "eng": "and I see you! (And I see you!)",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0015",
+        "nap": "Tirato co la fune, ditto 'nfatto,",
+        "ita_intermediate": null,
+        "eng": "You rise, pulled by a cable, quick as a wink,",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0016",
+        "nap": "'ncielo se va! ('ncielo se va!)",
+        "ita_intermediate": null,
+        "eng": "into the sky! (Into the sky!)",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0017",
+        "nap": "Se va comm' 'a lo viento a l'intrasatto,",
+        "ita_intermediate": null,
+        "eng": "We'll rise up like a whirlwind all of a sudden",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0018",
+        "nap": "guè, saglie, sà! (Guè, saglie, sà!)",
+        "ita_intermediate": null,
+        "eng": "knows how to do! (Knows how to do!)",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0019",
+        "nap": "Se n'è sagliuta, oje né, se n'è sagliuta,",
+        "ita_intermediate": null,
+        "eng": "The car has climbed up high, see, climbed up high now,",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": "suspect a difference in historicity between original and English text",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0020",
+        "nap": "la capa già! (La capa già!)",
+        "ita_intermediate": null,
+        "eng": "right to the top! (Right to the top!)",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0021",
+        "nap": "È gghiuta, po' è turnata, po' è venuta,",
+        "ita_intermediate": null,
+        "eng": "It went, and turned around, and came back down,",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0022",
+        "nap": "sta sempe ccà! (Sta sempe ccà!)",
+        "ita_intermediate": null,
+        "eng": "it's always there! (It's always there!)",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0023",
+        "nap": "La capa vota, vota, attuorno, attuorno,",
+        "ita_intermediate": null,
+        "eng": "The top is turning round, and round, and round,",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0024",
+        "nap": "attuorno a tte! (Attuorno a tte!)",
+        "ita_intermediate": null,
+        "eng": "around yourself! (Around yourself!)",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0025",
+        "nap": "'Sto core canta sempe nu taluorno:",
+        "ita_intermediate": null,
+        "eng": "My heart is singing the same refrain:",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0026",
+        "nap": "Sposamme, oje né! (Sposamme, oje né!)",
+        "ita_intermediate": null,
+        "eng": "We should be wed! (We should be wed!)",
+        "manually_translated": false,
+        "source": {
+            "type": "book",
+            "reference": "Mike Bivona, Traveling Around the World with Mike and Barbara Bivona, iUniverse. ISBN 978-1-4917-1041-8, p. 119",
+            "accessed_date": null
+        },
+        "domain": "lyric-poetry",
+        "reliability": "High",
+        "orthographic_profile": "philological",
+        "notes": null,
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0027",
+        "nap": "Quanno sponta la luna a Marechiare",
+        "ita_intermediate": null,
+        "eng": "When the moon looks down and shines on Marechiaro",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "http://www.naplesldm.com/napsongtexts.php#marechiare",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author, who is a linguistics professor with Italian fluency. Neapolitan competency is unverified.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0028",
+        "nap": "pure li pisce nce fann' a l'ammore,",
+        "ita_intermediate": null,
+        "eng": "Even the fish make love!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "http://www.naplesldm.com/napsongtexts.php#marechiare",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author, who is a linguistics professor with Italian fluency. Neapolitan competency is unverified.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0029",
+        "nap": "se revotano l'onne de lu mare,",
+        "ita_intermediate": null,
+        "eng": "The waves of the sea kick up",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "http://www.naplesldm.com/napsongtexts.php#marechiare",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author, who is a linguistics professor with Italian fluency. Neapolitan competency is unverified.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0030",
+        "nap": "pe la priezza cagneno culore",
+        "ita_intermediate": null,
+        "eng": "and change color just from joy",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "http:///napsongtexts.php#marechiaremoc.mdlpan.wwwles",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author, who is a linguistics professor with Italian fluency. Neapolitan competency is unverified.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0031",
+        "nap": "A Marechiare nce sta na fenesta,",
+        "ita_intermediate": null,
+        "eng": "But at Marechechiare there's a window",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "http://www.naplesldm.om/napsongtexts.php#marechiarec",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author, who is a linguistics professor with Italian fluency. Neapolitan competency is unverified.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0032",
+        "nap": "pe' la passione mia nce tuzzulea,",
+        "ita_intermediate": null,
+        "eng": "that I softly tap on with my heart",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "http:/w.naplesldm.com/asongexts.#echiareww/nptphpram",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author, who is a linguistics professor with Italian fluency. Neapolitan competency is unverified.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0033",
+        "nap": "nu carofano adora int'a na testa,",
+        "ita_intermediate": null,
+        "eng": "There's a fragrant carnation in a vase",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": ":rdm.comtlselpan.www//:ptgeraihceram#php.ste/naponxs",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author, who is a linguistics professor with Italian fluency. Neapolitan competency is unverified.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0034",
+        "nap": "passa l'acqua pe sotto e murmuléa,",
+        "ita_intermediate": null,
+        "eng": "the sea below softly murmurs",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "http://www.naplesldm.com/napsongtxts.php#marechiaree",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author, who is a linguistics professor with Italian fluency. Neapolitan competency is unverified.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0035",
+        "nap": "A Marechiare nce sta na fenesta",
+        "ita_intermediate": null,
+        "eng": "at Marechiare there's a window",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "http://www.naplesldm.com/napsongtexts.php#marechiare",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author, who is a linguistics professor with Italian fluency. Neapolitan competency is unverified.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0036",
+        "nap": "Dicitencello a 'sta cumpagna vosta",
+        "ita_intermediate": null,
+        "eng": "Tell her – tell that friend of yours",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0037",
+        "nap": "ch'aggio perduto 'o suonno e 'a fantasia...",
+        "ita_intermediate": null,
+        "eng": "That I’ve been losing sleep and my mind’s a blank",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0038",
+        "nap": "ch''a penzo sempe,",
+        "ita_intermediate": null,
+        "eng": "Say I’m always thinking about her",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0039",
+        "nap": "ch'è tutt''a vita mia...",
+        "ita_intermediate": null,
+        "eng": "That she’s my whole life...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0040",
+        "nap": "I' nce 'o vvulesse dicere,",
+        "ita_intermediate": null,
+        "eng": "I’d like to tell her,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0041",
+        "nap": "ma nun ce 'o ssaccio dí...",
+        "ita_intermediate": null,
+        "eng": "But I don’t know how to say...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0042",
+        "nap": "'A voglio bene",
+        "ita_intermediate": null,
+        "eng": "That I love her",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0043",
+        "nap": "'A voglio bene assaje!",
+        "ita_intermediate": null,
+        "eng": "I love her very much!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0044",
+        "nap": "Dicitencello vuje",
+        "ita_intermediate": null,
+        "eng": "You tell her the truth",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0045",
+        "nap": "ca nun mm''a scordo maje.",
+        "ita_intermediate": null,
+        "eng": "That I’ll never forget her",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0046",
+        "nap": "E' na passione,",
+        "ita_intermediate": null,
+        "eng": "It's a passion",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0047",
+        "nap": "cchiù forte 'e na catena,",
+        "ita_intermediate": null,
+        "eng": "stronger than chains,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0048",
+        "nap": "ca mme turmenta ll'anema...",
+        "ita_intermediate": null,
+        "eng": "It torments my soul...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0049",
+        "nap": "e nun mme fa campá!...",
+        "ita_intermediate": null,
+        "eng": "And I can’t go on...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0050",
+        "nap": "Na lácrema lucente v'è caduta...",
+        "ita_intermediate": null,
+        "eng": "A glistening tear slid down your cheek",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0051",
+        "nap": "dicíteme nu poco: a che penzate?",
+        "ita_intermediate": null,
+        "eng": "Tell me; what goes through your mind?",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0052",
+        "nap": "Cu st'uocchie doce,",
+        "ita_intermediate": null,
+        "eng": "Such sweet eyes,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0053",
+        "nap": "vuje sola mme guardate",
+        "ita_intermediate": null,
+        "eng": "Are yours and yours alone",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0054",
+        "nap": "Levámmoce 'sta maschera,",
+        "ita_intermediate": null,
+        "eng": "Let's get rid of this mask,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0055",
+        "nap": "dicimmo 'a veritá...",
+        "ita_intermediate": null,
+        "eng": "And tell the truth...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0056",
+        "nap": "Te voglio bene...",
+        "ita_intermediate": null,
+        "eng": "I love you...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0057",
+        "nap": "Te voglio bene assaje...",
+        "ita_intermediate": null,
+        "eng": "I really love you...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0058",
+        "nap": "Si' tu chesta catena",
+        "ita_intermediate": null,
+        "eng": "You are these chains",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0059",
+        "nap": "ca nun se spezza maje!",
+        "ita_intermediate": null,
+        "eng": "That will never break!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0060",
+        "nap": "Suonno gentile,",
+        "ita_intermediate": null,
+        "eng": "A soft sound,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0061",
+        "nap": "suspiro mio carnale",
+        "ita_intermediate": null,
+        "eng": "my senses sigh",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0062",
+        "nap": "Te cerco comm'a ll'aria:",
+        "ita_intermediate": null,
+        "eng": "I need you like the air I breathe:",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0063",
+        "nap": "Te voglio pe' campá!",
+        "ita_intermediate": null,
+        "eng": "I need you to go on!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0064",
+        "nap": "Partono 'e bastimente",
+        "ita_intermediate": null,
+        "eng": "The boats are leaving",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0065",
+        "nap": "p' 'e terre assaje luntane,",
+        "ita_intermediate": null,
+        "eng": "For far away lands,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0066",
+        "nap": "cantano a buordo e so' napulitane!",
+        "ita_intermediate": null,
+        "eng": "on board they sing \"I'm a Neapolitan!\"",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0067",
+        "nap": "Cantano pe' tramente",
+        "ita_intermediate": null,
+        "eng": "They sing while in the sunset",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0068",
+        "nap": "'o golfo già scompare,",
+        "ita_intermediate": null,
+        "eng": "the bay disappears,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0069",
+        "nap": "e 'a luna, 'a miez' 'o mare,",
+        "ita_intermediate": null,
+        "eng": "and as the half-moon of the sea,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0070",
+        "nap": "'nu poco 'e Napule lle fa vede'.",
+        "ita_intermediate": null,
+        "eng": "still reveals a little of Naples.",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0071",
+        "nap": "Santa Lucia,",
+        "ita_intermediate": null,
+        "eng": "Saint Lucia,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0072",
+        "nap": "luntano 'a te quanta malincunia!",
+        "ita_intermediate": null,
+        "eng": "How sad it is to be so far from you!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0073",
+        "nap": "Se gira 'o munno sano,",
+        "ita_intermediate": null,
+        "eng": "One circles the world",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0074",
+        "nap": "se va a cerca' furtuna,",
+        "ita_intermediate": null,
+        "eng": "One seeks one’s fortune,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0075",
+        "nap": "ma quanno sponta 'a luna",
+        "ita_intermediate": null,
+        "eng": "But when the moon rises",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0076",
+        "nap": "luntano a Napule",
+        "ita_intermediate": null,
+        "eng": "Far from Naples",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0077",
+        "nap": "nun se po' sta!",
+        "ita_intermediate": null,
+        "eng": "One cannot stay away!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0078",
+        "nap": "Santa Lucia tu tiene",
+        "ita_intermediate": null,
+        "eng": "Saint Lucia, yours is",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0079",
+        "nap": "solo 'nu poco 'e mare,",
+        "ita_intermediate": null,
+        "eng": "Only a little sea,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0080",
+        "nap": "ma cchiù luntana staie, cchiù bella pare!",
+        "ita_intermediate": null,
+        "eng": "But the longer I stay away, the more beautiful you are!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0081",
+        "nap": "È 'o canto d' 'e Ssirene",
+        "ita_intermediate": null,
+        "eng": "It is like the song of the sirens",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0082",
+        "nap": "ca tesse ancora 'e rezze,",
+        "ita_intermediate": null,
+        "eng": "That are still casting their net",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0083",
+        "nap": "core, nun vo' ricchezze:",
+        "ita_intermediate": null,
+        "eng": "My heart doesn’t want riches:",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0084",
+        "nap": "si è nato a Napule",
+        "ita_intermediate": null,
+        "eng": "If it was born in Naples,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0085",
+        "nap": "ce vo' muri'!",
+        "ita_intermediate": null,
+        "eng": "it wants to die there!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0086",
+        "nap": "​Arápete fenesta!",
+        "ita_intermediate": null,
+        "eng": "Open the window!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0087",
+        "nap": "Famme affacciá a Maria,",
+        "ita_intermediate": null,
+        "eng": "And let Mario look out,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0088",
+        "nap": "ca stóngo 'mmiez'â via...",
+        "ita_intermediate": null,
+        "eng": "I'm standing here in the middle of the road...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0089",
+        "nap": "speruto d''a vedé...",
+        "ita_intermediate": null,
+        "eng": "desperate to see her...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0090",
+        "nap": "Nun trovo n'ora 'e pace:",
+        "ita_intermediate": null,
+        "eng": "I can't get an hour's peace:",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0091",
+        "nap": "'a notte 'a faccio juorno,",
+        "ita_intermediate": null,
+        "eng": "The night’s the same as the day to me,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0092",
+        "nap": "sempe pe' stá ccá attuorno,",
+        "ita_intermediate": null,
+        "eng": "Always hanging around here,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0093",
+        "nap": "speranno 'e ce parlá!",
+        "ita_intermediate": null,
+        "eng": "Hoping to talk to her!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0094",
+        "nap": "Oje Marí', oje Marí',",
+        "ita_intermediate": null,
+        "eng": "Oh Marie, oh Marie,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0095",
+        "nap": "quanta suonno ca perdo pe' te!",
+        "ita_intermediate": null,
+        "eng": "How much sleep I lose for you!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0096",
+        "nap": "Famme addurmi,",
+        "ita_intermediate": null,
+        "eng": "Just let me fall asleep,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0097",
+        "nap": "abbracciato nu poco cu te!",
+        "ita_intermediate": null,
+        "eng": "Hugging you for a while!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0098",
+        "nap": "Quanta suonno ca perdo pe' te!",
+        "ita_intermediate": null,
+        "eng": "How much sleep I lose for you!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0099",
+        "nap": "Pare che giá s'arape",
+        "ita_intermediate": null,
+        "eng": "Now it looks like",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0100",
+        "nap": "na sénga 'e fenestella...",
+        "ita_intermediate": null,
+        "eng": "One of the window shutters is opening...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0101",
+        "nap": "Maria cu 'a manella,",
+        "ita_intermediate": null,
+        "eng": "Marie puts out her hand,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0102",
+        "nap": "nu segno a me mme fa!",
+        "ita_intermediate": null,
+        "eng": "And waves to me!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0103",
+        "nap": "​Sòna chitarra mia!",
+        "ita_intermediate": null,
+        "eng": "I play on my guitar!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0104",
+        "nap": "​Fenesta che lucive e mo nun luce...",
+        "ita_intermediate": null,
+        "eng": "The once-lit window, now dark...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0105",
+        "nap": "sign'è ca nénna mia stace malata...",
+        "ita_intermediate": null,
+        "eng": "means that my sweetheart is ill...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0106",
+        "nap": "S'affaccia la surella e mme lu dice:",
+        "ita_intermediate": null,
+        "eng": "Her sister looks out and tells me:",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0107",
+        "nap": "Nennélla toja è morta e s'è atterrata...",
+        "ita_intermediate": null,
+        "eng": "Your sweetheart is dead and buried...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0108",
+        "nap": "Chiagneva sempe ca durmeva sola,",
+        "ita_intermediate": null,
+        "eng": "She once complained that she slept alone,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0109",
+        "nap": "mo dorme co' li muorte accompagnata...",
+        "ita_intermediate": null,
+        "eng": "Now she sleeps in the company of the dead...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0110",
+        "nap": "Va' dint''a cchiesa, e scuopre lu tavuto:",
+        "ita_intermediate": null,
+        "eng": "Go to the church, and look into her coffin:",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0111",
+        "nap": "​vide nennélla toja comm'è tornata...",
+        "ita_intermediate": null,
+        "eng": "See how your sweetheart is now...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0112",
+        "nap": "Da chella vocca ca n'ascéano sciure,",
+        "ita_intermediate": null,
+        "eng": "From the mouth that once came words of love,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0113",
+        "nap": "mo n'esceno li vierme...Oh! che piatate!",
+        "ita_intermediate": null,
+        "eng": "But now only worms...Oh! What sadness!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0114",
+        "nap": "Zi' parrocchiano mio, ábbece cura:",
+        "ita_intermediate": null,
+        "eng": "Priest: take care of my little one:",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0115",
+        "nap": "na lampa sempe tienece allummata...",
+        "ita_intermediate": null,
+        "eng": "always keep a lamp lit by her...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0116",
+        "nap": "Comm'è bella 'a muntagna stanotte...",
+        "ita_intermediate": null,
+        "eng": "How beautiful the mountain is tonight…",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0117",
+        "nap": "bella accussí, nun ll'aggio vista maje!",
+        "ita_intermediate": null,
+        "eng": "I have never seen it more lovely!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0118",
+        "nap": "N'ánema pare, rassignata e stanca,",
+        "ita_intermediate": null,
+        "eng": "It looks like a resigned and tired soul",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0119",
+        "nap": "sott''a cuperta 'e chesta luna janca...",
+        "ita_intermediate": null,
+        "eng": "under the cover of this white moon.",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0120",
+        "nap": "Tu ca nun chiagne e chiágnere mme faje,",
+        "ita_intermediate": null,
+        "eng": "You who do not cry and make me cry,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0121",
+        "nap": "tu, stanotte, addó' staje?",
+        "ita_intermediate": null,
+        "eng": "where are you tonight?",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0122",
+        "nap": "Voglio a te!",
+        "ita_intermediate": null,
+        "eng": "I want you!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0123",
+        "nap": "Chist'uocchie te vonno,",
+        "ita_intermediate": null,
+        "eng": "See how these eyes want you,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0124",
+        "nap": "n'ata vota, vedé!",
+        "ita_intermediate": null,
+        "eng": "one more time!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0125",
+        "nap": "Comm'è calma 'a muntagna stanotte...",
+        "ita_intermediate": null,
+        "eng": "How calm the moon is tonight…",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0126",
+        "nap": "E tutto dorme, tutto dorme o more,",
+        "ita_intermediate": null,
+        "eng": "And everything sleeps, everything sleeps or dies.",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0127",
+        "nap": "e i' sulo veglio, pecché veglia Ammore...",
+        "ita_intermediate": null,
+        "eng": "Only I am awake, because Love is awake!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0128",
+        "nap": "Si 'sta voce te sceta ‘int'a nuttata,",
+        "ita_intermediate": null,
+        "eng": "If this voice wakes you in the night",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0129",
+        "nap": "Mentre t'astringe 'o sposo tuio vicino,",
+        "ita_intermediate": null,
+        "eng": "While the man at your side is holding you",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0130",
+        "nap": "Statte scetata, si vuo sta scetata,",
+        "ita_intermediate": null,
+        "eng": "Stay awake if you want to stay awake",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0131",
+        "nap": "Ma fa vede ca duorme a suonno chino.",
+        "ita_intermediate": null,
+        "eng": "But pretend that you're fast asleep.",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0132",
+        "nap": "Nun gghi vicino'e llastre pe' ffa' spia,",
+        "ita_intermediate": null,
+        "eng": "Don't go to the window to see who's there",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0133",
+        "nap": "Pecche nun puo sbaglia: ‘sta voce e'e mia…",
+        "ita_intermediate": null,
+        "eng": "Because you can't mistake it: that voice is mine…",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0134",
+        "nap": "E'a stessa voce ‘e quanno tutt'e dduie",
+        "ita_intermediate": null,
+        "eng": "The same voice as when we both",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0135",
+        "nap": "Scurnuse, nce parlavamo c'o \"vvuie\".",
+        "ita_intermediate": null,
+        "eng": "Were strangers, and both so formal with each other.",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0136",
+        "nap": "Si 'sta voce, che chiagn'int' `a nuttata",
+        "ita_intermediate": null,
+        "eng": "If this voice crying into the night",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0137",
+        "nap": "Te sceta'o sposo, nun ave paura,",
+        "ita_intermediate": null,
+        "eng": "Wakes your man, don't be afraid",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0138",
+        "nap": "Vide ch'e senza nomme'a sserenata…",
+        "ita_intermediate": null,
+        "eng": "Because there are no names in my serenade…",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0139",
+        "nap": "Dille ca dorme e ca se rassicura…",
+        "ita_intermediate": null,
+        "eng": "Tell him to sleep, that everything's all right.",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0140",
+        "nap": "Dille accussi: \"Chi canta ‘inta ‘sta via",
+        "ita_intermediate": null,
+        "eng": "Tell him: \"Whoever is singing down in the street",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0141",
+        "nap": "O sarra pazzo o more'e ggelusia",
+        "ita_intermediate": null,
+        "eng": "Is either crazy or dying of jealousy",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0142",
+        "nap": "Starra chiagneno quacce `nfamita",
+        "ita_intermediate": null,
+        "eng": "He's probably crying over some betrayal,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0143",
+        "nap": "Canta isso sulo. Ma che canta a ffa?\"",
+        "ita_intermediate": null,
+        "eng": "He sings alone. But what's he singing for?”",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0144",
+        "nap": "Quanno vien'a 'appuntamento",
+        "ita_intermediate": null,
+        "eng": "Whenever we meet",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0145",
+        "nap": "guarde 'o mare, guard''e ffronne,",
+        "ita_intermediate": null,
+        "eng": "You look at the sea, at the leaves,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0146",
+        "nap": "si te parlo nun rispunne,",
+        "ita_intermediate": null,
+        "eng": "If I speak to you, you don’t respond,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0147",
+        "nap": "staje distratta comm'a che.",
+        "ita_intermediate": null,
+        "eng": "You are very distracted.",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0148",
+        "nap": "Io te tengo dint''o core,",
+        "ita_intermediate": null,
+        "eng": "I have you in my heart,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0149",
+        "nap": "songo sempe 'nnammurato",
+        "ita_intermediate": null,
+        "eng": "I am still in love with you,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0150",
+        "nap": "ma tu, invece, pienze a n'ato",
+        "ita_intermediate": null,
+        "eng": "But you, instead, think about someone else",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0151",
+        "nap": "e te staje scurdanno 'e me...",
+        "ita_intermediate": null,
+        "eng": "And you are forgetting about me...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0152",
+        "nap": "Quanno se dice: \"Si’\"",
+        "ita_intermediate": null,
+        "eng": "When one has said “Yes,”",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0153",
+        "nap": "tienelo a mente...",
+        "ita_intermediate": null,
+        "eng": "you must remember...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0154",
+        "nap": "Nun s'ha da fa muri’ nu core amante...",
+        "ita_intermediate": null,
+        "eng": "One should not cause another heart to die…",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0155",
+        "nap": "Tu mme diciste: \"Si\" na sera 'e maggio...",
+        "ita_intermediate": null,
+        "eng": "You said to me “Yes,” one evening in May…",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0156",
+        "nap": "e mo tiene 'o curaggio 'e mme lassa’!",
+        "ita_intermediate": null,
+        "eng": "And now you have the courage to leave me!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0157",
+        "nap": "St'uocchie tuoje nun so’ sincere",
+        "ita_intermediate": null,
+        "eng": "I don’t know if those eyes of yours are sincere",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0158",
+        "nap": "comm'a quanno mme 'ncuntraste,",
+        "ita_intermediate": null,
+        "eng": "As they were when you met me,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0159",
+        "nap": "comm'a quanno mme diciste:",
+        "ita_intermediate": null,
+        "eng": "When you told me:",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0160",
+        "nap": "\"Voglio bene sulo a te...\"",
+        "ita_intermediate": null,
+        "eng": "“I love only you…”",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0161",
+        "nap": "E tremmanno mme giuraste,",
+        "ita_intermediate": null,
+        "eng": "And trembling you swore to me,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0162",
+        "nap": "cu na mano 'ncopp''o core:",
+        "ita_intermediate": null,
+        "eng": "With your hand on your heart:",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0163",
+        "nap": "\"Nun se scorda 'o primmo ammore!...\"",
+        "ita_intermediate": null,
+        "eng": "“One doesn’t forget one’s first love!…”",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0164",
+        "nap": "Mo te staje scurdanno 'e me...",
+        "ita_intermediate": null,
+        "eng": "But now you are forgetting me…",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0165",
+        "nap": "’O Surdato ’Nnamurato",
+        "ita_intermediate": null,
+        "eng": "The Soldier in Love",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0166",
+        "nap": "Staje luntana da stu core,",
+        "ita_intermediate": null,
+        "eng": "You are far from my heart",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0167",
+        "nap": "a te volo cu 'o penziero",
+        "ita_intermediate": null,
+        "eng": "And I fly to you in my thoughts",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0168",
+        "nap": "niente voglio e niente spero",
+        "ita_intermediate": null,
+        "eng": "I want nothing, and I hope for nothing",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0169",
+        "nap": "ca tenerte sempe a fianco a me!",
+        "ita_intermediate": null,
+        "eng": "But to have you near me forever!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0170",
+        "nap": "Si' sicura 'e chist'ammore",
+        "ita_intermediate": null,
+        "eng": "Be sure of this love",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0171",
+        "nap": "comm'i' só' sicuro 'e te...",
+        "ita_intermediate": null,
+        "eng": "as I am sure of you…",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0172",
+        "nap": "Oje vita, oje vita mia...",
+        "ita_intermediate": null,
+        "eng": "Oh life, oh my life…",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0173",
+        "nap": "oje core 'e chistu core...",
+        "ita_intermediate": null,
+        "eng": "Oh heart, oh this heart",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0174",
+        "nap": "si' stata 'o primmo ammore...",
+        "ita_intermediate": null,
+        "eng": "You were my first love...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0175",
+        "nap": "e 'o primmo e ll'ùrdemo sarraje pe' me!",
+        "ita_intermediate": null,
+        "eng": "My first, and you will be my last!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0176",
+        "nap": "Scrive sempe e sta' cuntenta",
+        "ita_intermediate": null,
+        "eng": "I always write saying you should be happy",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0177",
+        "nap": "io nun penzo che a te sola...",
+        "ita_intermediate": null,
+        "eng": "I only think of you...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0178",
+        "nap": "Nu penziero mme cunzola,",
+        "ita_intermediate": null,
+        "eng": "And one thought consoles me,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0179",
+        "nap": "ca tu pienze sulamente a me...",
+        "ita_intermediate": null,
+        "eng": "That you only think of me...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0180",
+        "nap": "'A cchiù bella 'e tutt''e bbelle",
+        "ita_intermediate": null,
+        "eng": "The most beautiful of beautiful women",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0181",
+        "nap": "nun è maje cchiù bella 'e te!",
+        "ita_intermediate": null,
+        "eng": "is not nearly as beautiful as you!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0182",
+        "nap": "Cchiù luntana mme staje,",
+        "ita_intermediate": null,
+        "eng": "The further from me you are",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0183",
+        "nap": "cchiù vicina te sento...",
+        "ita_intermediate": null,
+        "eng": "The closer to you I feel…",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0184",
+        "nap": "Chisà a chistu mumento",
+        "ita_intermediate": null,
+        "eng": "Who knows in this moment",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0185",
+        "nap": "tu a che pienze...che faje!",
+        "ita_intermediate": null,
+        "eng": "what you're thinking...what you're doing!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0186",
+        "nap": "Tu m’e’ miso 'int''e vvene,",
+        "ita_intermediate": null,
+        "eng": "You’ve poured into my veins,",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0187",
+        "nap": "nu veleno ch'è doce...",
+        "ita_intermediate": null,
+        "eng": "a sweet poison",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0188",
+        "nap": "Comme pesa 'sta croce ca trascino pe' te!...",
+        "ita_intermediate": null,
+        "eng": "How heavy is this cross that I bear for you!...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0189",
+        "nap": "Te voglio...te penzo...te chiammo...",
+        "ita_intermediate": null,
+        "eng": "I want you…I think of you…I call you…",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0190",
+        "nap": "te veco...te sento...te sonno...",
+        "ita_intermediate": null,
+        "eng": "I see you, I hear you, I dream of you…",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0191",
+        "nap": "E' n'anno, ‘nce pienze ch'è n'anno",
+        "ita_intermediate": null,
+        "eng": "Just think, it’s been a year, a whole year",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0192",
+        "nap": "ca stu’occhie nun ponno cchiù pace truvà!...",
+        "ita_intermediate": null,
+        "eng": "That these eyes have known no peace!",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0193",
+        "nap": "E cammino, cammino...",
+        "ita_intermediate": null,
+        "eng": "And I walk and walk...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0194",
+        "nap": "ma nun saccio addo' vaco...",
+        "ita_intermediate": null,
+        "eng": "But I don't know where I'm going...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0195",
+        "nap": "I' sto' sempe 'mbriaco",
+        "ita_intermediate": null,
+        "eng": "I'm always drunk",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0196",
+        "nap": "e nun bevo maje vino…",
+        "ita_intermediate": null,
+        "eng": "though I never drink wine...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    },
+    {
+        "id": "nap_0197",
+        "nap": "Aggio fatto nu vuto a’ Madonna d''a neve: si mme passa 'sta freve, oro e perle lle do'...",
+        "ita_intermediate": null,
+        "eng": "I’ve made a vow to Our Lady of the Snow: that if this fever passes, I'll offer her gold and pearls...",
+        "manually_translated": false,
+        "source": {
+            "type": "website",
+            "reference": "https://www.mariolanzatenor.com/mario-lyrics-and-english-translations.html",
+            "accessed_date": "2026-06-10"
+        },
+        "domain": "lyric-poetry",
+        "reliability": "Medium",
+        "orthographic_profile": "philological",
+        "notes": "ENG translation by blog author team. Includes linguists.",
+        "date_added": "2026-06-10"
+    }
+]
