@@ -1,14 +1,14 @@
 # Neapolitan–English Neural Machine Translator 🇮🇹
 
-A low-resource neural machine translation (NMT) system for Neapolitan → English, built from the ground up,  corpus and all.
+A low-resource neural machine translation (NMT) system for Neapolitan → English, built from the ground up, corpus and all.
 
 ## Overview
 
-Neapolitan is a Romance language spoken across Campania and parts of southern Italy. Despite having millions of speakers, it has virtually no existing parallel corpora, no standardized orthography, and minimal NLP tooling.
+Neapolitan is a Romance language spoken across Campania and parts of southern Italy. Despite having millions of speakers, it has virtually no existing parallel corpora, no standardized orthography, and minimal NLP tooling. For one of the most beautiful languages to exist, I find this to be equivalent to a war crime.
 
 My goal is to build the full stack: a cleaned parallel corpus of Neapolitan–English sentence pairs, a fine-tuned multilingual translation model, a REST API, and a minimal web interface, all documented and reproducible throughout.
 
-> **Status:** 🚧 Active development: currently working on writing scripts and data entry.
+> **Status:** 🚧 Active development: currently working on data entry and finding neapolitan sources.
 
 ## What's Being Built
 
@@ -24,13 +24,13 @@ My goal is to build the full stack: a cleaned parallel corpus of Neapolitan–En
 The biggest challenge with this low-resource NMT project is the linguistics of Neapolitan:
 
 - **No standardized orthography** — the same word can appear 5 different ways across sources, requiring deliberate normalization decisions
-- **Source scarcity** — corpus data is compiled manually from Neapolitan Wikipedia, Wikisource, bilingual folk song archives, religious texts, and academic sources
+- **Source scarcity** — corpus data is compiled manually from Neapolitan Wikipedia, Wikisource, bilingual folk song archives, religious texts, academic papers, etc.
 - **No synthetic ground truth** — machine translation cannot be used to build training data; entries are human-verified and confidence-flagged
 - **Register variation** — folk songs, prose, and formal writing require domain labels to avoid polluting the training signal
 
 ## Stack
 
-**Language:** Python 3.10+
+**Language:** Python 3.12
 
 **Data**
 - Storage: JSON (collection) → Parquet (training pipeline)
@@ -79,7 +79,7 @@ neapolitan-translator/
 - [x] Phase 0 — Environment & Git structure
 - [x] Phase 1 — Corpus strategy & source mapping
 - [x] Phase 2 — Data collection
-- [ ] Phase 3 — Corpus schema design & storage
+- [x] Phase 3 — Corpus schema design & storage
 - [ ] Phase 4 — Data cleaning pipeline
 - [ ] Phase 5 — Tokenization & preprocessing
 - [ ] Phase 6 — Model fine-tuning
@@ -110,8 +110,11 @@ Corpus data is compiled from:
 - [Neapolitan Wikipedia](https://nap.wikipedia.org)
 - Wikisource Neapolitan texts
 - Bilingual folk song archives
-- Religious texts (Neapolitan Bible translations)
+- Religious texts
 - Academic papers with quoted Neapolitan passages
+- List of traditional proverbs
+- Blog posts
+- Poems
 
 All entries are human-verified.
 All entries' translations are either compiled from their respective source or manually translated via Italian.
@@ -124,4 +127,4 @@ All entries' translations are either compiled from their respective source or ma
 
 ## Author
 
-Ibrahim Syed — in progress, 2025
+Ibrahim Syed — in progress, 2026
