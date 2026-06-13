@@ -1,8 +1,12 @@
 # virtual environment
 .venv/
+venv/
 .env
 
 
 # cache
 __pycache__/
 *.pyc
+
+#Personal copy of sources to track completion
+sourcesCopy.md
