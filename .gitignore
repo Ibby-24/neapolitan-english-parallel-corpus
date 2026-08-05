@@ -10,3 +10,6 @@ __pycache__/
 
 #Personal copy of sources to track completion
 sourcesCopy.md
+
+#Scratch scripts
+scripts/check_gpu.py

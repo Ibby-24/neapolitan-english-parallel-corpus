@@ -1276,23 +1276,6 @@
     },
     {
         "id": "nap_0076",
-        "nap": "Ah... comme se fa' adda' turmiento all'anema ca vo' vula' si tu nun scinn 'nfunno nun 'o puo' sape'.",
-        "ita_intermediate": "Ah, come si fa a tormentare l'anima che vuole volare se tu non scendi in fondo non lo puoi sapere",
-        "eng": "Ah, how can you plague a soul that wants to fly if you don't go down You cannot know",
-        "manually_translated": false,
-        "source": {
-            "type": "website",
-            "reference": "https://www.italyheritage.com/italian-songs/regional/campania/cu-mme.htm",
-            "accessed_date": "2026-06-12"
-        },
-        "domain": "lyric-poetry",
-        "reliability": "Medium",
-        "orthographic_profile": "vernacular-intuitive",
-        "notes": "ENG translation by blog author team, for a passion-blog on Italian heritage. However, there is no explicit qualification listed for the translator(s).",
-        "date_added": "2026-06-12"
-    },
-    {
-        "id": "nap_0077",
         "nap": "No, comme se fa' a te piglia' sultanto o' male ca ce sta' e po' lassa' stu core sulo in miezz a via",
         "ita_intermediate": "No, come si fa a prendere soltanto il male che c'è e poi lasciare questo cuore solo in mezzo alla strada",
         "eng": "No, how can you take only the pain there is and then leave this heart alone in the street",
@@ -1309,7 +1292,7 @@
         "date_added": "2026-06-12"
     },
     {
-        "id": "nap_0078",
+        "id": "nap_0077",
         "nap": "GSaglie cu 'mme' e accumincia a canta' 'nzieme e 'note ca l'aria da'.",
         "ita_intermediate": "Sali con me e comincia a cantare insieme alle note che l'aria dà",
         "eng": "Come up with me and begin to sing with the notes that the air gives",
@@ -1326,7 +1309,7 @@
         "date_added": "2026-06-12"
     },
     {
-        "id": "nap_0079",
+        "id": "nap_0078",
         "nap": "Senza guarda' tu cuntinui a vula' mentre o viento ce porta a 'lla'.",
         "ita_intermediate": "Senza guardare tu continua a volare mentre il vento ci porta là",
         "eng": "Without looking Keep flying while the wind takes us there.",
@@ -1343,7 +1326,7 @@
         "date_added": "2026-06-12"
     },
     {
-        "id": "nap_0080",
+        "id": "nap_0079",
         "nap": "Addo' ce stanno e parole cchiu' belle e te piglie pe' te 'mbara'.",
         "ita_intermediate": "Dove ci sono le parole più belle che prendi per imparare",
         "eng": "Where are the most beautiful words you take to learn",
@@ -1360,7 +1343,7 @@
         "date_added": "2026-06-12"
     },
     {
-        "id": "nap_0081",
+        "id": "nap_0080",
         "nap": "Ah... comme se fa' adda' turmiento all'anema ca vo' vula' si tu nun scinn 'nfunno nun 'o puo' sape'.",
         "ita_intermediate": "Ah come si fa a tormentare l'anima che vuole volare se tu non scendi in fondo non lo puoi sapere.",
         "eng": "Ah, how can you plague a soul that wants to fly if you don't go down you cannot know.",
@@ -1377,7 +1360,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0082",
+        "id": "nap_0081",
         "nap": "No, comme se fa' a te piglia' surtanto o' male ca ce sta' e po' lascia' stu core sulo 'mmiezo a via.",
         "ita_intermediate": "No, come si fa a prendere soltanto il male che c'è e poi lasciare questo cuore solo in mezzo alla strada.",
         "eng": "No, how can you take only the pain there is and then leave this heart alone in the street.",
@@ -1394,7 +1377,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0083",
+        "id": "nap_0082",
         "nap": "Quanno mammeta t'ha fatta Vuo' sape comme facette?",
         "ita_intermediate": null,
         "eng": "When your mother made you, do you know what she did?",
@@ -1411,7 +1394,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0084",
+        "id": "nap_0083",
         "nap": "Pe' 'mpasta sti ccarne belle, tutto chello ca mettatte?",
         "ita_intermediate": null,
         "eng": "To cook up this nice dish, what did she put in it?",
@@ -1428,7 +1411,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0085",
+        "id": "nap_0084",
         "nap": "Ciento rose 'ncappucciate dint' a martula mmescate. Latte, rose, rose e latte, te Facette 'ncoppo fatto!",
         "ita_intermediate": null,
         "eng": "A hundred rosebuds, she mixed with a mortar. Milk and roses, roses and milk, she whisked you up in the blink of an eye!",
@@ -1445,7 +1428,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0086",
+        "id": "nap_0085",
         "nap": "Nun c'e bisogno 'a zingara P'andivina, Cunce'. Comme t'ha fatto mammeta 'o ssaccio meglio 'e te!",
         "ita_intermediate": null,
         "eng": "It doesn't take a gypsy to figure it out, Cunce'. Just how your mother made you, I know better than you!",
@@ -1462,7 +1445,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0087",
+        "id": "nap_0086",
         "nap": "E pe' fa 'sta vocca bella, nun servette 'a stessa dose",
         "ita_intermediate": null,
         "eng": "And to make that lovely mouth, there were other things she added",
@@ -1479,7 +1462,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0088",
+        "id": "nap_0087",
         "nap": "Vuo' sape che nce mettette? Mo te dico tuttecosa. Nu panaro chino, chino tutt' e fravule 'e ciardino.",
         "ita_intermediate": null,
         "eng": "Want to know what she put in? Now I'll tell all. A basket filled to the brim with all the strawberries in the garden.",
@@ -1496,7 +1479,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0089",
+        "id": "nap_0088",
         "nap": "Mele, zuccaro e cannella: Te 'mpastaje 'sta vocca bella",
         "ita_intermediate": null,
         "eng": "Apples, sugar and cinnamon: to make that lovely mouth",
@@ -1513,7 +1496,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0090",
+        "id": "nap_0089",
         "nap": "Canta pe' me, stanotte, na canzone, tu ca si' bella e tiene 'a voce d'oro...",
         "ita_intermediate": null,
         "eng": "Sing a song for me tonight, you so beautiful with the golden voice...",
@@ -1530,7 +1513,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0091",
+        "id": "nap_0090",
         "nap": "Cantammella stanotte, ca si moro, moro sentenno na bella canzone...",
         "ita_intermediate": null,
         "eng": "Sing it to me tonight, so if I die, I die listening to a beautiful song...",
@@ -1547,7 +1530,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0092",
+        "id": "nap_0091",
         "nap": "Canta na serenata 'e marenare...ch''a tantu tiempo nun se canta cchiu...",
         "ita_intermediate": null,
         "eng": "Sing a sailor's serenade...that hasn't been sung for a long time...",
@@ -1564,7 +1547,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0093",
+        "id": "nap_0092",
         "nap": "Mare!...Stanotte, quanta varche a mare...ma tu nun cante? Ma a che pienze tu?",
         "ita_intermediate": null,
         "eng": "The sea! Tonight, so many ships at sea tonight...But why aren't you singing? What are you thinking?",
@@ -1581,7 +1564,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0094",
+        "id": "nap_0093",
         "nap": "Canta: ca i' t'accumpagno cu 'a chitarra, chissa stanotte, nun se sceta 'ammore,",
         "ita_intermediate": null,
         "eng": "Sing: that I may accompany you on the guitar, who knows that tonight one doesn't awaken love,",
@@ -1598,7 +1581,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0095",
+        "id": "nap_0094",
         "nap": "ll'ammore sfurtunato e cantatore ca niente vo': nu core e na chitarra...",
         "ita_intermediate": null,
         "eng": "unlucky love and a singer who wants nothing: one heart and a guitar...",
@@ -1615,7 +1598,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0096",
+        "id": "nap_0095",
         "nap": "Canta, cai bella Napule addurmuta, connola d'oro pe' chi vo' sunna'...",
         "ita_intermediate": null,
         "eng": "Sing, what a beautiful sleeping Naples, cradle of gold for one who wants to dream...",
@@ -1632,7 +1615,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0097",
+        "id": "nap_0096",
         "nap": "Ma tu che pienze sulitaria e muta? Ma tu ch'aspiette ca nun vuò cantà?",
         "ita_intermediate": null,
         "eng": "But what are you thinking, so solitary and silent? But what are you waiting for if you don't want to sing?",
@@ -1649,7 +1632,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0098",
+        "id": "nap_0097",
         "nap": "Nuje ca perdimmo 'a pace e 'o suonno, nun ce dicimmo maje pecchè?",
         "ita_intermediate": null,
         "eng": "We that lose peace and sleep, do never tell each other why?",
@@ -1666,7 +1649,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0099",
+        "id": "nap_0098",
         "nap": "Vocche ca vase nun ne vonno, nun so' sti vvocche oje ne'!",
         "ita_intermediate": null,
         "eng": "Mouths that do not want kisses, are not these mouths my dear!",
@@ -1683,7 +1666,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0100",
+        "id": "nap_0099",
         "nap": "Pure, te chiammo e nun rispunne pe' fa dispietto a me",
         "ita_intermediate": null,
         "eng": "But I call you and you don't answer to spite me",
@@ -1700,7 +1683,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0101",
+        "id": "nap_0100",
         "nap": "Tenimmoce accusì: anema e core, nun ce lassammo cchiù, manco pe' n'ora,",
         "ita_intermediate": null,
         "eng": "Let us keep each other like this, soul and heart, let us never part, not for one hour,",
@@ -1717,7 +1700,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0102",
+        "id": "nap_0101",
         "nap": "stu desiderio 'e te mme fa paura, campà cu te, sempre cu te, pe' nun murì.",
         "ita_intermediate": null,
         "eng": "my wish of you frightens me, to live with you, with you forever, so as not to die.",
@@ -1734,7 +1717,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0103",
+        "id": "nap_0102",
         "nap": "Che ce dicimmo a fa' parole amare, si 'o bbene pò campà cu nu respiro?",
         "ita_intermediate": null,
         "eng": "Why do we tell each other bitter words, if fondness can live with just one breath?",
@@ -1751,7 +1734,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0104",
+        "id": "nap_0103",
         "nap": "Si smanie pure tu pe' chist'ammore, tenimmoce accussì, anema e core!",
         "ita_intermediate": null,
         "eng": "If you too are suffering for this love, let us keep each other like this, soul and heart!",
@@ -1768,7 +1751,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0105",
+        "id": "nap_0104",
         "nap": "Forse sarrà ca 'o chianto è doce, forse sarrà ca bene fa",
         "ita_intermediate": null,
         "eng": "Maybe it is because weeping is sweet, maybe because it makes you feel better",
@@ -1785,7 +1768,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0106",
+        "id": "nap_0105",
         "nap": "Quanno mme sento cchiù felice, nun è felicità. Specie si è vvote tu mme dice, distratta, 'a verità.",
         "ita_intermediate": null,
         "eng": "The happier I am, it is not happiness. Especially when you sometimes tell me, unthoughtful, the truth.",
@@ -1802,7 +1785,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0107",
+        "id": "nap_0106",
         "nap": "Dicitencello a 'sta cumpagna vosta ch'aggio perduto 'o suonno e 'a fantasia...ch' 'a penzo sempe, ch'è tutt' 'a vita mia...",
         "ita_intermediate": null,
         "eng": "Please tell you friend that I've lost sleep and fantasy too...That I always t hink of her, that she's all my life...",
@@ -1819,7 +1802,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0108",
+        "id": "nap_0107",
         "nap": "I' nce 'o vvulesse dicere, ma nun ce 'o ssaccio dí...'A voglio bene.'A voglio bene assaje!",
         "ita_intermediate": null,
         "eng": "I'd really like to tell her, but I don't know how to tell her...I love her. I love her so much!",
@@ -1836,7 +1819,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0109",
+        "id": "nap_0108",
         "nap": "Dicitencello vuje ca nun mm' 'a scordo maje. È 'na passione, cchiù forte 'e na catena, ca mme turmenta ll'anema...e nun mme fa campá!",
         "ita_intermediate": null,
         "eng": "You go tell her that I can never forget her. This is a passion, stronger than a chain that torments my soul... and doesn't let me live.",
@@ -1853,7 +1836,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0110",
+        "id": "nap_0109",
         "nap": "Dicitencello ch'è 'na rosa 'e maggio, ch'è assaje cchiù bella 'e na jurnata 'e sole...Da 'a vocca soja, cchiù fresca d''e vviole,",
         "ita_intermediate": null,
         "eng": "Tell her that she is a rose of May, that she is much more beautiful than a sunny day...from her mouth that is more fresh than violets",
@@ -1870,7 +1853,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0111",
+        "id": "nap_0110",
         "nap": "i' giá vulesse sèntere ch'è 'nnammurata 'e me!",
         "ita_intermediate": null,
         "eng": "I'd always like to hear that she is in love with me!",
@@ -1887,7 +1870,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0112",
+        "id": "nap_0111",
         "nap": "Na lácrema lucente v'è caduta...dicíteme nu poco: a che penzate?!",
         "ita_intermediate": null,
         "eng": "A shining tear trickled down your face...tell me, what are you thinking?!",
@@ -1904,7 +1887,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0113",
+        "id": "nap_0112",
         "nap": "Cu st'uocchie doce, vuje sola mme guardate...",
         "ita_intermediate": null,
         "eng": "With these sweet eyes, you only are looking at me...",
@@ -1921,7 +1904,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0114",
+        "id": "nap_0113",
         "nap": "Levámmoce 'sta maschera, dicimmo 'a veritá...",
         "ita_intermediate": null,
         "eng": "Let's take off these masks, let's tell the truth...",
@@ -1938,7 +1921,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0115",
+        "id": "nap_0114",
         "nap": "Si' tu chesta catena ca nun se spezza maje.",
         "ita_intermediate": null,
         "eng": "You are this chain that is never broken.",
@@ -1955,7 +1938,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0116",
+        "id": "nap_0115",
         "nap": "Suonno gentile, suspiro mio carnale...",
         "ita_intermediate": null,
         "eng": "Oh kind sleep, my carnal sigh...",
@@ -1972,7 +1955,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0117",
+        "id": "nap_0116",
         "nap": "Te cerco comm'a ll'aria: Te voglio pe' campá!",
         "ita_intermediate": null,
         "eng": "I seek you like air: I want you to be able to live!",
@@ -1989,7 +1972,7 @@
         "date_added": "2026-06-13"
     },
     {
-        "id": "nap_0118",
+        "id": "nap_0117",
         "nap": "Ah! che bell'aria fresca ch'addora 'e malvarosa. E tu durmenno staje ncopp'a sti ffronne 'e rosa.",
         "ita_intermediate": null,
         "eng": "Ah! What nice fresh air scented of hollyhocks. And you are sleeping over these rose branches.",
@@ -2006,7 +1989,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0119",
+        "id": "nap_0118",
         "nap": "'O sole a poco a poco pe 'stu giardino sponta; 'o viento passa e vase 'stu ricciulillo 'nfronne.",
         "ita_intermediate": null,
         "eng": "The sun little by little in this garden is rising; the wind goes and kisses this little curl on the forehead.",
@@ -2023,7 +2006,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0120",
+        "id": "nap_0119",
         "nap": "'I te vurria vasa'. 'I te vurria vasa' ma 'o core nun m' 'o ddice 'e te scetà.",
         "ita_intermediate": null,
         "eng": "I'd like to kiss you. I'd like to kiss you but my heart does not tell me to wake you up.",
@@ -2040,7 +2023,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0121",
+        "id": "nap_0120",
         "nap": "'I me vurria addurmì vicino 'o sciato tujo n' ora pur' i'!",
         "ita_intermediate": null,
         "eng": "I'd like to fall asleep near your breathe an hour, me too!",
@@ -2057,7 +2040,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0122",
+        "id": "nap_0121",
         "nap": "Tu duorme oje Rosa mia...e duorme a suonno chino, mentr'io guardo, 'ncantato, stu musso curallino...",
         "ita_intermediate": null,
         "eng": "You're sleeping oh my Rose...and sleeping deeply while I'm looking, enchanted, at this coral mouth...",
@@ -2074,7 +2057,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0123",
+        "id": "nap_0122",
         "nap": "E chesti ccarne fresche, e chesti ttrezze nere, mme mettono, 'int''o core, mille male penziere! 'I te vurria vasa'",
         "ita_intermediate": null,
         "eng": "And this fresh skin, and these black tresses, bring to my heart, a thousand bad thoughts. I'd like to kiss you.",
@@ -2091,7 +2074,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0124",
+        "id": "nap_0123",
         "nap": "Sento 'stu core tuje che sbatte comm' 'a ll'onne. Durmenno, angelo mio, chi sa tu a chi te suonne!",
         "ita_intermediate": null,
         "eng": "I can feel your heart beating like the waves. While sleeping, oh my angel, who knows who you're dreaming of!",
@@ -2108,7 +2091,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0125",
+        "id": "nap_0124",
         "nap": "A gelusia turmenta 'stu core mio malato; Te suonne a me? Dimmello...O pure suonne a n'ato?",
         "ita_intermediate": null,
         "eng": "Jealousy plagues my sick heart; Are you dreaming of me? Tell me...Or are you dreaming of another?",
@@ -2125,7 +2108,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0126",
+        "id": "nap_0125",
         "nap": "Mia cara madre, sta pe' trasí Natale, e a stá luntano cchiù mme sape amaro",
         "ita_intermediate": null,
         "eng": "My dear mother, Christmas is coming, and being away has a bitter taste to me",
@@ -2142,7 +2125,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0127",
+        "id": "nap_0126",
         "nap": "Comme vurría appicciá duje o tre biangale comme vurría sentí nu zampugnaro!",
         "ita_intermediate": null,
         "eng": "How I would like to light one or two fireworks and hear the music of a bagpiper!",
@@ -2159,7 +2142,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0128",
+        "id": "nap_0127",
         "nap": "A 'e ninne mieje facitele 'o presebio e a tavula mettite 'o piatto mio.",
         "ita_intermediate": null,
         "eng": "For my children build them a nativity and at our table place my dish.",
@@ -2176,7 +2159,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0129",
+        "id": "nap_0128",
         "nap": "Facite, quann'è 'a sera d'a Vigilia comme si 'mmiez'a vuje stesse pur'io.",
         "ita_intermediate": null,
         "eng": "Do, on Christmas Eve, as if I were there among you.",
@@ -2193,7 +2176,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0130",
+        "id": "nap_0129",
         "nap": "E nce ne costa lacreme st'America a nuje Napulitane!",
         "ita_intermediate": null,
         "eng": "And this America costs tears to us Neapolitans!",
@@ -2210,7 +2193,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0131",
+        "id": "nap_0130",
         "nap": "Pe' nuje ca nce chiagnimmo 'o cielo 'e Napule, comm'è amaro stu ppane!",
         "ita_intermediate": null,
         "eng": "For us that weep for the sky of Naples, how bitter this bread is!",
@@ -2227,7 +2210,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0132",
+        "id": "nap_0131",
         "nap": "Mia cara madre, che só, che só 'e denare? Pe' chi se chiagne 'a Patria, nun só niente!",
         "ita_intermediate": null,
         "eng": "My dear mother, what is, what is money? For those who weep for home, it's nothing!",
@@ -2244,7 +2227,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0133",
+        "id": "nap_0132",
         "nap": "Mo' tengo quacche dollaro, e mme pare ca nun só stato maje tanto pezzente!",
         "ita_intermediate": null,
         "eng": "Now I have a few dollars, but it seems to me I have never been so poor!",
@@ -2261,7 +2244,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0134",
+        "id": "nap_0133",
         "nap": "Mme sonno tutt''e nnotte 'a casa mia e d''e ccriature meje ne sento 'a voce.",
         "ita_intermediate": null,
         "eng": "I dream every night of my home and I hear the voices of my children.",
@@ -2278,7 +2261,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0135",
+        "id": "nap_0134",
         "nap": "Ma a vuje ve sonno comm'a na \"Maria\" cu 'e spade 'mpietto, 'nnanz'ô figlio 'ncroce!",
         "ita_intermediate": null,
         "eng": "But I dream of you as a \"Mother Mary\" with a sword in your chest before your son on the cross!",
@@ -2295,7 +2278,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0136",
+        "id": "nap_0135",
         "nap": "Mm'avite scritto ch'Assuntulella chiamma chi ll'ha lassata e sta luntana ancora.",
         "ita_intermediate": null,
         "eng": "You wrote that little Assunta calls the one that has left her and is still away.",
@@ -2312,7 +2295,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0137",
+        "id": "nap_0136",
         "nap": "Che v'aggi'a dí? Si 'e figlie vònno 'a mamma, facítela turná chella signora.",
         "ita_intermediate": null,
         "eng": "What shall I say? If the children want their mother, make that lady return.",
@@ -2329,7 +2312,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0138",
+        "id": "nap_0137",
         "nap": "Io no, nun torno, mme ne resto fore e resto a faticá pe' tutte quante.",
         "ita_intermediate": null,
         "eng": "Not me, I will not return I will stay away and will stay here to work for everyone.",
@@ -2346,7 +2329,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0139",
+        "id": "nap_0138",
         "nap": "I' ch'aggio perzo casa, patria e onore, i só carne 'e maciello: Só emigrante!",
         "ita_intermediate": null,
         "eng": "I, that have lost my home, my country, my honor, I am a meat for slaughter: I am an immigrant!",
@@ -2363,7 +2346,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0140",
+        "id": "nap_0139",
         "nap": "Si avisse fatto a n'ato chello ch'e fatto a mme, st'ommo t'avesse acciso, e vuò sapè pecchè?",
         "ita_intermediate": null,
         "eng": "If you did to another man what you did to me, this man would have killed you, and do you want to know why?",
@@ -2380,7 +2363,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0141",
+        "id": "nap_0140",
         "nap": "Pecchè 'ncopp'a sta terra femmene comme a te nun ce hanna sta pè n'ommo onesto comme a me!...",
         "ita_intermediate": null,
         "eng": "Because on this earth women like you should not exist for a man honest like me!",
@@ -2397,7 +2380,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0142",
+        "id": "nap_0141",
         "nap": "Femmena, tu si na malafemmena... chist'uocchie 'e fatto chiagnere...lacreme e 'nfamità.",
         "ita_intermediate": null,
         "eng": "Woman, you are a bad woman... these eyes you made cry tears and sorrows.",
@@ -2414,7 +2397,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0143",
+        "id": "nap_0142",
         "nap": "Femmena, si tu peggio 'e na vipera, m'e 'ntussecata l'anema, nun pozzo cchiù campà.",
         "ita_intermediate": null,
         "eng": "Woman, you are worse than a viper, you intoxicated my soul, I can't live any more.",
@@ -2431,7 +2414,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0144",
+        "id": "nap_0143",
         "nap": "Femmena, si dolce come 'o zucchero però sta faccia d'angelo te serve pe 'ngannà...",
         "ita_intermediate": null,
         "eng": "Woman, you are as sweet as sugar but this angel's face you use to cheat...",
@@ -2448,7 +2431,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0145",
+        "id": "nap_0144",
         "nap": "Femmena, tu si 'a cchiù bella femmena, te voglio bene e t'odio, nun te pozzo scurdà...",
         "ita_intermediate": null,
         "eng": "Woman, you're the most beautiful woman, I love you and I hate you, I cannot forget you...",
@@ -2465,7 +2448,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0146",
+        "id": "nap_0145",
         "nap": "Te voglio ancora bene, ma tu non saie pecchè, pecchè l'unico ammore si stata tu pe me...",
         "ita_intermediate": null,
         "eng": "I still love you, but you don't know why, because the only love you were for me...",
@@ -2482,7 +2465,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0147",
+        "id": "nap_0146",
         "nap": "E tu pe nu capriccio tutto 'e distrutto, ojnè. Ma Dio nun t'o perdone Chello ch'e fatto a mme!",
         "ita_intermediate": null,
         "eng": "And you for a whim destroyed everything, alas. But God will not forgive you for what you did to me!",
@@ -2499,7 +2482,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0148",
+        "id": "nap_0147",
         "nap": "Chillu turzo 'e mio marito nun se pò cchiù suppurtà. Ll'aggio 'a cósere 'o vestito. Mm'aggio 'a mettere a cantà.",
         "ita_intermediate": null,
         "eng": "That stupid husband of mine I can no longer bear. I must play him a good joke, I will start to sing.",
@@ -2516,7 +2499,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0149",
+        "id": "nap_0148",
         "nap": "Tutto è pronto. Stó aspettanno na scrittura p' 'a firmà. Nun appena che mm' 'a danno, vado fore a debuttà.",
         "ita_intermediate": null,
         "eng": "Everything is ready. I'm waiting for a contract to sign. As soon as they give it to me, I will go out to debut.",
@@ -2533,7 +2516,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0150",
+        "id": "nap_0149",
         "nap": "Ho scelto un nome eccentrico: \"Ninì Tirabusciò\". Oh, oh, oh. Oh, oh, oh. Addio mia bella Napoli, mai più ti rivedrò. Oh, oh, oh. Perderai Tirabusciò.",
         "ita_intermediate": null,
         "eng": "I chose an eccentric name: \"Nini Tirabusciò\". Oh, oh, oh. Oh, oh, oh. Farewell my beautiful Naples, I will never see you again. Oh, oh, oh. You will lose Tirabusciò.",
@@ -2550,7 +2533,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0151",
+        "id": "nap_0150",
         "nap": "Ne cunosco tante e tante ca nun só cchiù meglio 'e me e cu 'e llire e cu 'e brillante só turnate da 'e tturné.",
         "ita_intermediate": null,
         "eng": "I know so many girls that are no better than me and with money and with diamonds they are back from tours.",
@@ -2567,7 +2550,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0152",
+        "id": "nap_0151",
         "nap": "'A furtuna, s'è capito, 'ncopp' 'e ttavule se fa. Ca fatiche e ghiétt' 'acito, che risorse puó sperà?",
         "ita_intermediate": null,
         "eng": "Fortune, we know that, on game tables is made. Who toils and throws vinegar, in which resources can she hope?",
@@ -2584,7 +2567,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0153",
+        "id": "nap_0152",
         "nap": "Aìz' 'a vesta, smuóvete. Ch'è ll'epoca ch' 'o vvò'. Oh, oh, oh. Oh, oh, oh.",
         "ita_intermediate": null,
         "eng": "Raise your dress, come on. It's the time that asks for it. Oh, oh, oh. Oh, oh, oh.",
@@ -2601,7 +2584,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0154",
+        "id": "nap_0153",
         "nap": "Pe' cantà nun serve 'a voce, è 'o partito ca nce vò. Po' 'e ccanzone miette 'ncroce ca faje \"bisse\" quante vuó'.",
         "ita_intermediate": null,
         "eng": "You do not need a voice to sing, a recommendation is what it takes. Then you ruin the songs and give as many replays as you like.",
@@ -2618,7 +2601,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0155",
+        "id": "nap_0154",
         "nap": "Dai il tuo cuore 'ncopp' 'a piazza ai più ricchi habitué. Vide po' si 'un fanno 'a mazza ll'ate artiste 'nnanze a te.",
         "ita_intermediate": null,
         "eng": "Give your heart on the square to the richest regulars. Then see if they are not in bad shape and other artists compared to you.",
@@ -2635,7 +2618,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0156",
+        "id": "nap_0155",
         "nap": "E' chesta 'a vera tattica de na sciantosa 'e mo'.Oh, oh, oh. Oh, oh, oh. Addio mia bella Napoli, mai più ti rivedró. Oh, oh, oh. Perderai Tirabusciò.",
         "ita_intermediate": null,
         "eng": "And this is the true tactics of a chanteuse of today. Oh, oh, oh. Oh, oh, oh. Farewell my beautiful Naples, I will never see you again. Oh, oh, oh. You will lose Tirabusciò.",
@@ -2652,7 +2635,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0157",
+        "id": "nap_0156",
         "nap": "'O Sarracino, 'o Sarracino, bello guaglione! 'O sarracino, 'o sarracino, tutte 'e femmene fa nnammura'!",
         "ita_intermediate": null,
         "eng": "The Sarracino, the Sarracino, handsome guy! The Sarracino,  the Sarracino, all women he makes fall in love!",
@@ -2669,7 +2652,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0158",
+        "id": "nap_0157",
         "nap": "Tene 'i capille ricce ricce, 'll uocchie 'e brigante e 'o sole 'nfaccia, ogne figliola s'appiccia si 'o vede 'e passà.",
         "ita_intermediate": null,
         "eng": "He has curly hair, the eyes of a robber and the sun in his face, every girl is on fire if she sees him passing.",
@@ -2686,7 +2669,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0159",
+        "id": "nap_0158",
         "nap": "'Na sigaretta 'mmocca, 'na mano dint' 'a sacca e se ne va smargiasso pe' tutt' 'a città.",
         "ita_intermediate": null,
         "eng": "A cigarette in his mouth, with one hand in pocket and goes walking, a bully, throughout the city.",
@@ -2703,7 +2686,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0160",
+        "id": "nap_0159",
         "nap": "'O sarracino, 'o sarracino, bello guaglione! 'O sarracino, 'o sarracino, tutte 'e femmene fa suspirà...",
         "ita_intermediate": null,
         "eng": "The Sarracino, the Sarracino, handsome guy! The Sarracino,  the Sarracino, all women he makes sigh...",
@@ -2720,7 +2703,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0161",
+        "id": "nap_0160",
         "nap": "È bello 'e faccia è bello 'e core, sape fa' 'mmore! È malandrino, è tentatore, si 'o guardate ve fa' nnammurà.",
         "ita_intermediate": null,
         "eng": "He is handsome in his face, in his heart, knows how to make love! He is a scoundrel, he is tempting, if you look at him he makes you fall in love.",
@@ -2737,7 +2720,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0162",
+        "id": "nap_0161",
         "nap": "E 'na bionda s'avvelena, e 'na bruna se ne more. è veleno o calamita? chisto 'e femmene che ll' fa?",
         "ita_intermediate": null,
         "eng": "And a blonde takes poison, and a brunette dies for him. Is it poison or a magnet? What does this guy make to women?",
@@ -2754,7 +2737,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0163",
+        "id": "nap_0162",
         "nap": "Ma 'na rossa, 'll ata sera, cu 'nu vaso e cu 'na scusa, t'ha arrubbato anema e core! Sarracino, nun si cchiù tu!",
         "ita_intermediate": null,
         "eng": "But a redhead, the other night, with a kiss and an excuse, stole your soul and heart! Sarracino, you are not yourself any more!",
@@ -2771,7 +2754,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0164",
+        "id": "nap_0163",
         "nap": "Che bella cosa na jurnata 'e sole, n'aria serena doppo na tempesta! Pe' ll'aria fresca pare già na festa... Che bella cosa na jurnata 'e sole.",
         "ita_intermediate": null,
         "eng": "What a beautiful thing is a sunny day! The air is serene after a storm! The air is so fresh that it already feel like a celebration. What a beautiful thing is a sunny day!",
@@ -2788,7 +2771,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0165",
+        "id": "nap_0164",
         "nap": "Ma n'atu sole cchiù bello, oi ne', 'o sole mio sta nfronte a te! 'O sole, 'o sole mio, sta nfronte a te, sta nfronte a te!",
         "ita_intermediate": null,
         "eng": "But another sun, even more beauteous, oh my sweetheart, my own sun, is there in your face! This sun, my own sun, is there in your face; it is there in your face!",
@@ -2805,7 +2788,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0166",
+        "id": "nap_0165",
         "nap": "Lùceno 'e llastre d''a fenesta toia; 'na lavannara canta e se ne vanta e pe' tramente torce, spanne e canta, lùceno 'e llastre d''a fenesta toia.",
         "ita_intermediate": null,
         "eng": "Your window panes shine; a laundress is singing and boasting about it; and while she's wringing the clothes, hanging them up to dry, and singing, your window panes shine.",
@@ -2822,7 +2805,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0167",
+        "id": "nap_0166",
         "nap": "Quanno fa notte e 'o sole se ne scenne, me vene quasi 'na malincunia; sotto 'a fenesta toia restarria quanno fa notte e 'o sole se ne scenne.",
         "ita_intermediate": null,
         "eng": "When night comes and the sun has gone down, I almost start feeling melancholy; I'd stay below your window when night comes and the sun has gone down.",
@@ -2839,7 +2822,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0168",
+        "id": "nap_0167",
         "nap": "Quanno nascette Ninno a Bettalemme, era notte, e pareva miezo juorno. Maje le stelle - lustre e belle, se vedetteno accussì: 'a cchiù lucente jett'a chiammà li Magge a l'Urïente.",
         "ita_intermediate": null,
         "eng": "When the Child was born in Bethlehem, it was night but it looked like noon. Never the stars - so brilliant and beautiful, were so visible: The most sparking went to summon the Wise Men in the East",
@@ -2856,7 +2839,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0169",
+        "id": "nap_0168",
         "nap": "De pressa se scetajeno l'aucielle cantanno de 'na forma tutta nova. Pe' 'nsi' 'e grille - co' li strille e zombanno a ccà e a llà; È nato, è nato, decevano, lu Dio che nc'à crïato.",
         "ita_intermediate": null,
         "eng": "Quickly the birds awoke singing in a completely new way. Even the crickets - with their screeches and hopping here and there; He is born, he is born, they said, the God who made us all.",
@@ -2873,7 +2856,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0170",
+        "id": "nap_0169",
         "nap": "No' nc'erano nemmice pe' la terra, la pecora pasciva co' [lu] lione; Co' 'o crapette - se vedette 'o liupardo pazzïà; L'urz' e 'o vitiello e co' lu lupo 'n pace 'o pecoriello.",
         "ita_intermediate": null,
         "eng": "There were no enemies on earth; The sheep pastured with the lion; The leopard - was seen playing with the kid; The bear with the calf and the wolf with the lamb were in peace.",
@@ -2890,7 +2873,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0171",
+        "id": "nap_0170",
         "nap": "Se rrevotaje 'nsomma tutt' 'o Munno, Lu cielo, 'a terra, 'o mare, e tutt'i gente. Chi dormeva - se senteva 'n piett' 'o core pazzïà pe' la prïezza; E se sonnava pace e contentezza.",
         "ita_intermediate": null,
         "eng": "So, the world was messed up, the sky, the earth, the sea, all the people. Who was sleeping - kept feeling his heart beating wildly in his chest for the happiness; And peace and jollity sounded in the air.",
@@ -2907,7 +2890,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0172",
+        "id": "nap_0171",
         "nap": "Guardavano le pecore 'e Pasturi, e 'n Angelo sbrennente cchiù d'o sole comparette - e le decette: no ve spaventate no; contento e riso, la terra è arreventata Paravis.",
         "ita_intermediate": null,
         "eng": "The shephards were watching their sheep, and an angel, more respledent than the sun, appeared - and told them: Don't be afraid, no; Happiness and laughter, earth has become Paradise.",
@@ -2924,7 +2907,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0173",
+        "id": "nap_0172",
         "nap": "A buje è nato ogge a Bettalemme d' 'u munno l'aspettato Sarvatore. Dint'i panni 'o trovarrite, nu potite - maje sgarrà, arravugliato, e dinto a lu Presebio curcato.",
         "ita_intermediate": null,
         "eng": "In the dark today is born in Bethlehem the awaited Savior of the world. You will found him in swaddling clothes, you can - never mistake, wrapped, and in a manger laid.",
@@ -2941,7 +2924,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0174",
+        "id": "nap_0173",
         "nap": "Co' tutto ch'era vierno, Ninno bello, nascetteno a migliara rose e sciure. Pe' nsi' 'o ffieno, sicco e tuosto, ca fuje puosto sott'a te, se 'nfigliulette e de frunnelle e sciure se vestette.",
         "ita_intermediate": null,
         "eng": "Though it was winter, dear Child, in thousands roses and flowers bloomed. Even the hay, dry and hard, that was placed under you, was budding of young leaves and flowers were clothed.",
@@ -2958,7 +2941,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0175",
+        "id": "nap_0174",
         "nap": "A no paese ca se chiamma Ngadde, sciurettero li vvigne e ascette ll'uva. Ninno mio sapuretiello, rappusciello d'uva si' tu, ca tutt'ammore, faje doce 'a vocca e po' 'mbriache 'o core!",
         "ita_intermediate": null,
         "eng": "In a village called Engaddi, vineyards flowered and grapes cames out. O my child, so savvy, a small vine grape you are. With all love, you make the mouth sweet and the heart drunk!",
@@ -2975,7 +2958,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0176",
+        "id": "nap_0175",
         "nap": "A meliune ll'Angiule calaro co' chiste se mettetteno a cantare; \"Gloria a Dio, pace 'nterra, no cchiù guerra...è nato giá lo rre d'ammore che dá prejezza e pace ad ogni core.\"",
         "ita_intermediate": null,
         "eng": "In millions the Angels came down with this one they started to sing; \"Glory to God, peace on earth, no more war...he was born the king of love that gives joy and peace to every heart.\"",
@@ -2992,7 +2975,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0177",
+        "id": "nap_0176",
         "nap": "Sbatteva 'o core 'mpietto a 'sti Pasture e ll'uno n' 'nfaccia all'ato deceva: \"Ché tardammo? Priesto, jammo ca mme sento ascevolí pe' lo golío ca tengo de vedé stu Ninno Dio!\"",
         "ita_intermediate": null,
         "eng": "Heart was beating in their chest to these Shepherds and one another they were saying: \"Why are we late? Quick, let's go that I feel I am crazy for the great wish I have to see this God-Child!\"",
@@ -3009,7 +2992,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0178",
+        "id": "nap_0177",
         "nap": "Zompanno comm'a ciérve ferute, correttero i pasture a la capanna. Llá trovajeno a Maria co' Giuseppe e 'a Gioja mia e 'n chillo Viso provajeno nu muorzo 'i Paraviso.",
         "ita_intermediate": null,
         "eng": "Jumping like wounded deer, the shepherds ran to the hut. There they found Mary with Joseph with my Joy and in that Face they tasted a bit of Heaven.",
@@ -3026,7 +3009,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0179",
+        "id": "nap_0178",
         "nap": "Restajeno 'ncantate a voccapierte pe' tanto tiempo senza di' parola, po' jettanno, lacremanno, no sospiro pe' sfogá da dint' 'o core, cacciajeno, a migliara, atte d'ammore.",
         "ita_intermediate": null,
         "eng": "They stayed enchanted with open mouth for a long time, not saying a word, then they gave out, weeping, a sigh to let out from inside their hearts, they showed, in thousands, acts of love.",
@@ -3043,7 +3026,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0180",
+        "id": "nap_0179",
         "nap": "Co 'a scusa de donare li presiente se jetteno azzeccanno chiano chiano. Ninno, no li rifiutaje ll'azzettaje, comm'a di', ca lle mettette li mano 'ncapa e le benedicette",
         "ita_intermediate": null,
         "eng": "With the excuse of giving presents they went nearer little by little. The Baby didn't reject them, he accepted them, as to say, then he placed the hands on their heads and blessed them.",
@@ -3060,7 +3043,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0181",
+        "id": "nap_0180",
         "nap": "Piglianno confedenzia a poco a poco, cercajeno licenza a la Mamma. Se mangiajeno li pedille coi vasille, 'mprimma e po' chelle mmanelle e a ll'urdemo, lu musso e 'i mascarielle.",
         "ita_intermediate": null,
         "eng": "They took more confidence little by little, asking permission from the Mom. They are the small feet with their kisses, first and then those small hands and finally, the face and cheeks.",
@@ -3077,7 +3060,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0182",
+        "id": "nap_0181",
         "nap": "Po' 'nsieme se mettetteno a sonare e a cantá co' ll'Angiule e Maria co' na voce, accossí doce, ca Gesù facette: Aaaah - ha, e po' chiudette chill'uocchie aggraziate e s'addurmette.",
         "ita_intermediate": null,
         "eng": "Then together they started to play and sing with the Angels and Mary with a voice, so sweet, that Jesus said: Aaaah - ha, and then He closed those pretty eyes and fell asleep.",
@@ -3094,7 +3077,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0183",
+        "id": "nap_0182",
         "nap": "La nonna che cantajeno a me mme pare ch'avett' 'a èsse' chella ca mo' dico: Ma 'nfrattanto io la canto, 'mmaggenateve de stá co li pasture vicino a Ninno bello vuje pure.",
         "ita_intermediate": null,
         "eng": "The song they played seems to me must have been the same I am singing now: But while I am singing, imagine you are with the shepherds near the Darling Child you too.",
@@ -3111,7 +3094,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0184",
+        "id": "nap_0183",
         "nap": "Cantanno po' e sonanno, li Pasture, tornajeno a le mantre n'ata vota: ma che vuó che cchiù arrecietto non trovajeno 'int'a lo pietto a 'o caro. Bene, facevano ogne poco 'o va' e biene",
         "ita_intermediate": null,
         "eng": "Singing then and playing, the Shepherds, they came back to the sheep again; but you know they found no more rest in their hearts. And for their dear Child, they every now and then went and came.",
@@ -3128,7 +3111,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0185",
+        "id": "nap_0184",
         "nap": "Lo 'nfierno solamente e 'e peccature 'ncocciuse comm'a isso e ostinate se mettettero appaura, pecché a 'o scuro vonno stá li spurtagliune, fujenno da lu sole, li briccune.",
         "ita_intermediate": null,
         "eng": "Only hell and the sinners stubborn like it and obstinate were frightened, because in the dark want to stay the bats, flying away from the sun, the rascals.",
@@ -3145,7 +3128,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0186",
+        "id": "nap_0185",
         "nap": "Io pure sóngo niro peccatore ma non boglio èsse' cuoccio e ostinato, Io non boglio cchiù peccare, voglio amare, voglio stá co' Ninno bello comme nce sta lo voje e ll'aseniello.",
         "ita_intermediate": null,
         "eng": "Me too, I am a black sinner but I won't be stubborn and obstinate, I don't want to sin anymore. I want to love, I want to be with the darling Child as the donkey and ox are with him.",
@@ -3162,7 +3145,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0187",
+        "id": "nap_0186",
         "nap": "Nennillo mio Tu si' sole d'ammore! Faje luce e scarfe pure 'o peccatore. Quanno è tutto niro e brutto comm'a pece, tanno cchiù lo tiene mente e 'o faje addeventá bello e sbrennente.",
         "ita_intermediate": null,
         "eng": "O my little Child you are a love sun! You make light and warm the sinner too. When everything is black and ugly as pitch, all the more you look at him and make him become fine and shining.",
@@ -3179,7 +3162,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0188",
+        "id": "nap_0187",
         "nap": "Ma tu mme diciarraje ca chiagniste acciò chiagnesse pure 'o peccatore! Aggio tuorto! Ahje! fosse muorto n'ora primma de peccá! Tu mm'haje amato e io, pe' paga, t'aggio maltrattato.",
         "ita_intermediate": null,
         "eng": "But you will tell me that you wept so that the sinner too would weep! I am wrong! Alas! I wish I died and hour before I sinned! You loved me and I, in reward, mistreated you.",
@@ -3196,7 +3179,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0189",
+        "id": "nap_0188",
         "nap": "E vuje uocchie mieje, doje fontane avit' 'a fá, de lacreme, chiagnenno, pe' lavare, pe' scarfare, li pedille de Giesù chisá, placato, decesse: \"Via, ca t'aggio perdonato!\"",
         "ita_intermediate": null,
         "eng": "And you, o my eyes, two fountains must make, of tears, for weeping, so as to wash, so as to warm, the small feet of Jesus who knows, appeased, will say: \"Come on, that I have forgiven you!\"",
@@ -3213,7 +3196,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0190",
+        "id": "nap_0189",
         "nap": "Viato a me si aggio 'sta fortuna! Che maje potesse cchiù desiderare? O Maria, speranza mia mentr'io chiagno, prega tu; penza ca pure si' fatta mamma de li peccature.",
         "ita_intermediate": null,
         "eng": "I will be blessed if I have this luck! What more can I wish for? O Mary, my hope while I weep, please pray; think that you were also made mother of sinners.",
@@ -3230,7 +3213,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0191",
+        "id": "nap_0190",
         "nap": "Viene suonno da lo Cielo, viene e adduorme 'sso Nennillo; Pe pietà, ca è peccerillo, viene suonno e non tarda'.",
         "ita_intermediate": null,
         "eng": "Sleep comes from heaven, comes and makes the child sleep; Please, he is a small baby, come, sleep, don't be late.",
@@ -3247,7 +3230,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0192",
+        "id": "nap_0191",
         "nap": "Gioia bella de 'sto core, vorria suonno arreventare, doce, doce pe' te fare 'ss'uocchíe bell'addormenta'.",
         "ita_intermediate": null,
         "eng": "Fine joy of this heart, I'd like to burn sleep, sweetly, sweetly to make these fine eyes sleep.",
@@ -3264,7 +3247,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0193",
+        "id": "nap_0192",
         "nap": "Ma si Tu p'esser'amato te sí fatto Bammeníello, sulo ammore è o sonnaríello che dormire te pò fa'.",
         "ita_intermediate": null,
         "eng": "But if to be beloved you became a little child, only love is the sleep that can make you rest.",
@@ -3281,7 +3264,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0194",
+        "id": "nap_0193",
         "nap": "Ment'è chesto può fa nonna, pe Te st'arma è arza e bona. T'amo, Uh sta canzona già t'ha fatto addobea'!",
         "ita_intermediate": null,
         "eng": "While this can Grandma do, for you this soul is burning. I love you, Uh this song already made  you asleep!",
@@ -3298,7 +3281,7 @@
         "date_added": "2026-06-14"
     },
     {
-        "id": "nap_0195",
+        "id": "nap_0194",
         "nap": "T'amo Dio - Bello mio, T'amo Gíoja, t'amo.",
         "ita_intermediate": null,
         "eng": "I love you God, my Beautiful, I love you Joy, I love you.",

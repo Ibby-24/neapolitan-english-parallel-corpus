@@ -1,11 +1,16 @@
 #validate_corpus.py - serves as a strict validator for dataset. 
 #reviews data fields and catches formatting errors, illegal vocab injections, and structural corruption
 
-import os
+
+#validate_corpus.py - serves as a validator for the dataset,
+#reviews data fields and catches formatting errors, illegal vocab injections,
+#structural corruption, and text deduplication issues.
+
 import json
+import os
 import re
-from datetime import datetime
 import sys
+from datetime import datetime
 
 #controlled domains
 VALID_DOMAINS = {
@@ -32,8 +37,16 @@ def is_valid_iso_date(date_str):
     except ValueError:
         return False
 
+def normalize_for_dedup(text):
+    #lowercases, strips punctuation, and normalizes spaces for fuzzy deduplications
+    if not text:
+        return ""
+    #remove punctuation/symbols and collapses whitespaces
+    cleaned = re.sub(r"[^\w\s]", "", text.lower(), flags=re.UNICODE)
+    return re.sub(r"\s+", " ", cleaned).strip()
+
 def validate_corpus():
-    print("--- Beginning Data Validation ---")
+    print("=== Validating Data ===")
     
    
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -58,9 +71,13 @@ def validate_corpus():
         
     total_entries = len(corpus)
     print(f"Targeting {total_entries} entries for testing...")
-    
+
+
     #tracking variables
     seen_ids = set()
+    seen_nap_exact = {}
+    seen_nap_normalized = {}
+
     errors_count = 0
     warnings_count = 0
     
@@ -82,7 +99,8 @@ def validate_corpus():
             continue
             
         entry_id = entry.get("id")
-        
+
+        #ID validation
         if not entry_id:
             log_issue(None, idx, "error", "id", "ID field is missing or empty.")
         elif not isinstance(entry_id, str):
@@ -94,6 +112,7 @@ def validate_corpus():
             if not re.match(r"^nap_\d{4}$", entry_id):
                 log_issue(entry_id, idx, "warning", "id", f"ID style format mismatch. Expected shape 'nap_XXXX', got '{entry_id}'")
 
+        #Neapolitan Text Validation
         nap_text = entry.get("nap")
         if nap_text is None:
             log_issue(entry_id, idx, "error", "nap", "Field is completely missing.")
@@ -101,7 +120,27 @@ def validate_corpus():
             log_issue(entry_id, idx, "error", "nap", f"Field is not a string. Got type: {type(nap_text).__name__}")
         elif not nap_text.strip():
             log_issue(entry_id, idx, "error", "nap", "Field contains an empty or whitespace-only string.")
+        else:
+            #Exact Deduplication Check
+            if nap_text in seen_nap_exact:
+                log_issue(
+                    entry_id, idx, "warning", "nap", 
+                    f"Exact duplicate Neapolitan text detected! Matches text in entry '{seen_nap_exact[nap_text]}'."
+                )
+            else:
+                seen_nap_exact[nap_text] = entry_id
 
+            #Normalized Deduplication Check
+            norm_nap = normalize_for_dedup(nap_text)
+            if norm_nap in seen_nap_normalized and nap_text not in seen_nap_exact:
+                log_issue(
+                    entry_id, idx, "warning", "nap", 
+                    f"Near-duplicate text overlap detected! Content strongly matches entry '{seen_nap_normalized[norm_nap]}'."
+                )
+            else:
+                seen_nap_normalized[norm_nap] = entry_id
+
+        #English Text Validation
         eng_text = entry.get("eng")
         if eng_text is None:
             log_issue(entry_id, idx, "error", "eng", "Field is completely missing.")
@@ -110,6 +149,7 @@ def validate_corpus():
         elif not eng_text.strip():
             log_issue(entry_id, idx, "error", "eng", "Field contains an empty or whitespace-only string.")
 
+        #Italian Intermediate Schema Check            
         if "ita_intermediary" in entry:
             log_issue(entry_id, idx, "error", "ita_intermediary", "Typo alert! Field key spelled as 'intermediary' instead of schema standard 'ita_intermediate'.")
             
@@ -117,6 +157,7 @@ def validate_corpus():
         if ita_text is not None and not isinstance(ita_text, str):
             log_issue(entry_id, idx, "error", "ita_intermediate", f"Must be a string or explicit null. Got type: {type(ita_text).__name__}")
 
+        #Metadata & Source Validation
         man_trans = entry.get("manually_translated")
         if man_trans is None:
             log_issue(entry_id, idx, "error", "manually_translated", "Field is missing.")
@@ -143,6 +184,7 @@ def validate_corpus():
             if s_acc_date is not None and not is_valid_iso_date(s_acc_date):
                 log_issue(entry_id, idx, "error", "source.accessed_date", f"Value '{s_acc_date}' is not a valid YYYY-MM-DD ISO date string.")
 
+        #Controlled variables        
         domain = entry.get("domain")
         if not domain:
             log_issue(entry_id, idx, "error", "domain", "Domain setting missing.")
@@ -171,7 +213,8 @@ def validate_corpus():
         elif not is_valid_iso_date(added_date):
             log_issue(entry_id, idx, "error", "date_added", f"Value '{added_date}' is not a valid YYYY-MM-DD ISO format string.")
 
-    #RESULTS
+
+    #AUDIT RESULTS
     print("\n" + "="*60)
     print("AUDIT RESULTS SUMMARY")
     print("="*60)

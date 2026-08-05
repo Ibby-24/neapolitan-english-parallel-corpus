@@ -26,6 +26,9 @@ def clean_text_field(text):
     text = unicodedata.normalize('NFC', text)
     
     #clean up erratic spacing around apostrophe clusters
+    #ex input: "avit'    'a fá"
+    #ex output: "avit' 'a fá"
+    #regex logic: Finds an apostrophe, 2 or more whitespace characters, and a trailing apostrophe
     text = re.sub(r"'\s{2,}'", "' '", text)
     
     #clean up accidental general double-spaces left behind by manual typing
